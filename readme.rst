@@ -1,5 +1,3 @@
-# kipy-protecao-veicular
-
 ###################
 What is CodeIgniter
 ###################

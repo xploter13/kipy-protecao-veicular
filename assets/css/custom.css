@@ -1,0 +1,28 @@
+/* CUSTOM CSS */
+
+.top_bar .top_bar_contact_item .top_bar_icon i {
+    /* color: #e12454; */
+    color: #fff;
+}
+
+.section-title h2.title {
+    text-transform: initial;
+}
+
+.widget.offer_widget .ttm-btn {
+    position: absolute;
+    right: 130px;
+    bottom: -10px;
+    left: 44px;
+    text-align: center;
+}
+
+@media (max-width: 575px) {
+    .widget.offer_widget .ttm-btn {
+        position: absolute;
+        right: 48px;
+        bottom: -20px;
+        left: 4px;
+        text-align: center;
+    }
+}
