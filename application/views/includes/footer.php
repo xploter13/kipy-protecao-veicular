@@ -40,7 +40,7 @@
                             <div class="widget widget_text clearfix">
                                 <h3 class="widget-title">Quem Somos</h3>
                                 <div class="textwidget widget-text">
-                                    <p>Axacus Consultancy is a one-stop shop offering accounting, financial and advisory services. Beneficial experienced finance professionals.</p>
+                                    <p>Laborum do qui et nisi eu ex nostrud Laborum do qui et nisi eu ex nostrud Laborum do qui et nisi eu ex nostrudLaborum do qui et nisi eu ex nostrud.</p>
                                     <div class="call_detail">
                                         <h3>Telefone</h3>
                                         <p>(24) 99839-5123</p>
@@ -52,11 +52,11 @@
                             <div class="widget widget_nav_menu clearfix">
                                <h3 class="widget-title">Empresa</h3>
                                <ul id="menu-footer-quick-links" class="menu">
-                                    <li><a href="#">Make Appointment</a></li>
-                                    <li><a href="#">Customer Services</a></li>
-                                    <li><a href="#">Department</a></li>
-                                    <li><a href="#">About Company</a></li>
-                                    <li><a href="#">Our Case Studies</a></li>
+                                    <li><a href="#">Lorem Ipsum</a></li>
+                                    <li><a href="#">Lorem Ipsum</a></li>
+                                    <li><a href="#">Lorem Ipsum</a></li>
+                                    <li><a href="#">Lorem Ipsum</a></li>
+                                    <li><a href="#">Lorem Ipsum</a></li>
                                 </ul>
                             </div>
                         </div>                        
@@ -64,15 +64,14 @@
                             <div class="widget widget_nav_menu clearfix">
                                <h3 class="widget-title">Institucional</h3>
                                <ul id="menu-footer-quick-links" class="menu">
-                                    <li><a href="#">Make Appointment</a></li>
-                                    <li><a href="#">Customer Services</a></li>
-                                    <li><a href="#">Department</a></li>
-                                    <li><a href="#">About Company</a></li>
-                                    <li><a href="#">Our Case Studies</a></li>
+                                    <li><a href="#">Lorem Ipsum</a></li>
+                                    <li><a href="#">Lorem Ipsum</a></li>
+                                    <li><a href="#">Lorem Ipsum</a></li>
+                                    <li><a href="#">Lorem Ipsum</a></li>
+                                    <li><a href="#">Lorem Ipsum</a></li>
                                 </ul>
                             </div>
-                        </div>                        
-                        
+                        </div>  
                     </div>
                 </div>
             </div>
@@ -84,9 +83,9 @@
                                 <div class="order-1">
                                     <div class="cpy-text">Copyright © 2021 <a href="#">Kipy Proteção Veicular</a>. Todos os direitos reservados.</div>
                                 </div>
-                                <div class="order-2 footer-logo">
-                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/footer-logo.svg" alt="logo">
-                                </div>
+                                <!-- <div class="order-2 footer-logo">
+                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/footer-logo.svg-" alt="logo">
+                                </div> -->
                                 <div class="order-3">
                                     <div class="social-icons">
                                         <ul class="social-icons list-inline">

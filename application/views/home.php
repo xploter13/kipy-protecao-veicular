@@ -66,7 +66,7 @@
                     </div>
                 </div>
             </div>
-            <div class="slide">
+            <!-- <div class="slide">
                 <div class="slide_img" style="background-image: url(<?php echo base_url(); ?>assets/images/slides/slider-mainbg-002.jpg);"></div>
                 <div class="slide__content">
                     <div class="container">
@@ -89,7 +89,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
         <!-- Banner end-->
 
@@ -365,16 +365,16 @@
                                         <div class="row">
                                             <div class="col-lg-6 col-md-12">
                                                 <div class="res-991-padding_bottom30 padding_right10 res-991-padding_right0">
-                                                    <h3>Reason to Reject following Drawbacks</h3>
-                                                    <p>To obtain higher performance, our leaders first identify the critical obstacles to forward to overcome loss. We define our company's mission & Prioritize company objetives</p>
-                                                    <p><img class="img-fluid alignleft" src="<?php echo base_url(); ?>assets/images/single-img-09.jpg" alt="image" width="150" height="100">Sometimes you get into it for the wrong reasons, &amp;amp; eventually it hits you on the face. These reasons can be drawbak but an eye opener too.</p>
+                                                    <h3>Furto / Roubo</h3>
+                                                    <p>Em caso de furto/roubo do veículo, a Central de Assistência providenciará o registro junto ao CNVR (Cadastro Nacional de Veículos Roubados) para facilitar sua localização e além disso, você ainda conta com monitoramente e rastreamento do seu veículo em tempo real.</p>
+                                                    <!-- <p><img class="img-fluid alignleft" src="<?php echo base_url(); ?>assets/images/single-img-09.jpg" alt="image" width="150" height="100">Sometimes you get into it for the wrong reasons, &amp;amp; eventually it hits you on the face. These reasons can be drawbak but an eye opener too.</p>
                                                     <div class="padding_top10">
                                                         <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor">
                                                             <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Running out of money can be a good sign</span></li>
                                                             <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Clients are always right, except when they are wrong</span></li>
                                                             <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">You’re worth every penny, so show it</span></li>
                                                         </ul>
-                                                    </div>
+                                                    </div> -->
                                                 </div>
                                             </div>
                                             <div class="col-lg-6 col-md-10">
@@ -394,16 +394,16 @@
                                             </div>
                                             <div class="col-lg-6 col-md-12">
                                                 <div class="res-991-padding_top30 padding_left10 res-991-padding_left0">
-                                                    <h3>Reason to Reject following Drawbacks</h3>
-                                                    <p>To obtain higher performance, our leaders first identify the critical obstacles to forward to overcome loss. We define our company's mission & Prioritize company objetives</p>
-                                                    <p><img class="img-fluid alignleft" src="<?php echo base_url(); ?>assets/images/single-img-09.jpg" alt="image" width="150" height="100">Sometimes you get into it for the wrong reasons, &amp;amp; eventually it hits you on the face. These reasons can be drawbak but an eye opener too.</p>
+                                                    <h3>Incêndio</h3>
+                                                    <p>Cobrimos o prejuízo de perda total sofrido pelo veículo, caso aconteça um acidente com fogo ou incêndio.</p>
+                                                    <!-- <p><img class="img-fluid alignleft" src="<?php echo base_url(); ?>assets/images/single-img-09.jpg" alt="image" width="150" height="100">Sometimes you get into it for the wrong reasons, &amp;amp; eventually it hits you on the face. These reasons can be drawbak but an eye opener too.</p>
                                                     <div class="padding_top10">
                                                         <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor">
                                                             <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Running out of money can be a good sign</span></li>
                                                             <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Clients are always right, except when they are wrong</span></li>
                                                             <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">You’re worth every penny, so show it</span></li>
                                                         </ul>
-                                                    </div>
+                                                    </div> -->
                                                 </div>
                                             </div>
                                         </div>
@@ -413,16 +413,16 @@
                                         <div class="row">
                                             <div class="col-lg-6 col-md-12">
                                                 <div class="res-991-padding_bottom30 padding_right10 res-991-padding_right0">
-                                                    <h3>Reason to Reject following Drawbacks</h3>
-                                                    <p>To obtain higher performance, our leaders first identify the critical obstacles to forward to overcome loss. We define our company's mission & Prioritize company objetives</p>
-                                                    <p><img class="img-fluid alignleft" src="<?php echo base_url(); ?>assets/images/single-img-09.jpg" alt="image" width="150" height="100">Sometimes you get into it for the wrong reasons, &amp;amp; eventually it hits you on the face. These reasons can be drawbak but an eye opener too.</p>
+                                                    <h3>Colisão</h3>
+                                                    <p>Em caso de colisão do veículo, será providenciado um táxi para o retorno ao endereço residencial e gantimos total assistência em relação à primeiros socorros e remoção hospitalar para os nossos associados.</p>
+                                                    <!-- <p><img class="img-fluid alignleft" src="<?php echo base_url(); ?>assets/images/single-img-09.jpg" alt="image" width="150" height="100">Sometimes you get into it for the wrong reasons, &amp;amp; eventually it hits you on the face. These reasons can be drawbak but an eye opener too.</p>
                                                     <div class="padding_top10">
                                                         <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor">
                                                             <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Running out of money can be a good sign</span></li>
                                                             <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Clients are always right, except when they are wrong</span></li>
                                                             <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">You’re worth every penny, so show it</span></li>
                                                         </ul>
-                                                    </div>
+                                                    </div> -->
                                                 </div>
                                             </div>
                                             <div class="col-lg-6 col-md-10">
@@ -442,68 +442,20 @@
                                             </div>
                                             <div class="col-lg-6 col-md-12">
                                                 <div class="res-991-padding_top30 padding_left10 res-991-padding_left0">
-                                                    <h3>Reason to Reject following Drawbacks</h3>
-                                                    <p>To obtain higher performance, our leaders first identify the critical obstacles to forward to overcome loss. We define our company's mission & Prioritize company objetives</p>
-                                                    <p><img class="img-fluid alignleft" src="<?php echo base_url(); ?>assets/images/single-img-09.jpg" alt="image" width="150" height="100">Sometimes you get into it for the wrong reasons, &amp;amp; eventually it hits you on the face. These reasons can be drawbak but an eye opener too.</p>
+                                                    <h3>Perda Total</h3>
+                                                    <p>Cobrimos o prejuízo de perda total sofrido pelo veículo, ainda que o condutor seja o responsável pelo acidente, exceto quando este não esteja conduzindo seu veículo de acordo com as leis de trânsito ou sob efeito de drogas.</p>
+                                                    <!-- <p><img class="img-fluid alignleft" src="<?php echo base_url(); ?>assets/images/single-img-09.jpg" alt="image" width="150" height="100">Sometimes you get into it for the wrong reasons, &amp;amp; eventually it hits you on the face. These reasons can be drawbak but an eye opener too.</p>
                                                     <div class="padding_top10">
                                                         <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor">
                                                             <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Running out of money can be a good sign</span></li>
                                                             <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Clients are always right, except when they are wrong</span></li>
                                                             <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">You’re worth every penny, so show it</span></li>
                                                         </ul>
-                                                    </div>
+                                                    </div> -->
                                                 </div>
                                             </div>
                                         </div>
-                                    </div><!-- content-inner end-->
-                                    <!-- content-inner -->
-                                    <div class="content-inner">
-                                        <div class="row">
-                                            <div class="col-lg-6 col-md-12">
-                                                <div class="res-991-padding_bottom30 padding_right10 res-991-padding_right0">
-                                                    <h3>Reason to Reject following Drawbacks</h3>
-                                                    <p>To obtain higher performance, our leaders first identify the critical obstacles to forward to overcome loss. We define our company's mission & Prioritize company objetives</p>
-                                                    <p><img class="img-fluid alignleft" src="<?php echo base_url(); ?>assets/images/single-img-09.jpg" alt="image" width="150" height="100">Sometimes you get into it for the wrong reasons, &amp;amp; eventually it hits you on the face. These reasons can be drawbak but an eye opener too.</p>
-                                                    <div class="padding_top10">
-                                                        <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor">
-                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Running out of money can be a good sign</span></li>
-                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Clients are always right, except when they are wrong</span></li>
-                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">You’re worth every penny, so show it</span></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-lg-6 col-md-10">
-                                                <div class="d-inline-block single-img-wraper p-15 ttm-bgcolor-grey border-rad_6">
-                                                    <img class="img-fluid auto_size" height="375" width="500" src="<?php echo base_url(); ?>assets/images/tab-img01.jpg" alt="image">
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div><!-- content-inner end-->
-                                    <!-- content-inner -->
-                                    <div class="content-inner">
-                                        <div class="row">
-                                            <div class="col-lg-6 col-md-10">
-                                                <div class="d-inline-block single-img-wraper p-15 ttm-bgcolor-grey border-rad_6">
-                                                    <img class="img-fluid auto_size" height="375" width="500" src="<?php echo base_url(); ?>assets/images/tab-img01.jpg" alt="image">
-                                                </div>
-                                            </div>
-                                            <div class="col-lg-6 col-md-12">
-                                                <div class="res-991-padding_top30 padding_left10 res-991-padding_left0">
-                                                    <h3>Reason to Reject following Drawbacks</h3>
-                                                    <p>To obtain higher performance, our leaders first identify the critical obstacles to forward to overcome loss. We define our company's mission & Prioritize company objetives</p>
-                                                    <p><img class="img-fluid alignleft" src="<?php echo base_url(); ?>assets/images/single-img-09.jpg" alt="image" width="150" height="100">Sometimes you get into it for the wrong reasons, &amp;amp; eventually it hits you on the face. These reasons can be drawbak but an eye opener too.</p>
-                                                    <div class="padding_top10">
-                                                        <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor">
-                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Running out of money can be a good sign</span></li>
-                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Clients are always right, except when they are wrong</span></li>
-                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">You’re worth every penny, so show it</span></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div><!-- content-inner end-->
+                                    </div><!-- content-inner end-->                                    
                                 </div>
                             </div>
                         </div>

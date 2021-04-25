@@ -22,6 +22,14 @@
     text-align: center;
 }
 
+.jxPOhn {
+    bottom: 100px !important;
+}
+
+.dfBDQI {
+    display: none !important;
+}
+
 @media (max-width: 575px) {
     .widget.offer_widget .ttm-btn {
         position: absolute;

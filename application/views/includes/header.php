@@ -53,7 +53,7 @@
                                 <div class="site-navigation d-flex flex-row align-items-center justify-content-between">
                                     <!-- site-branding -->
                                     <div class="site-branding ">
-                                        <a class="home-link" href="#" title="Axacus" rel="home">
+                                        <a class="home-link" href="<?php echo base_url(); ?>" title="Axacus" rel="home">
                                             <img id="logo-img" height="auto" width="175" class="img-fluid auto_size" src="<?php echo base_url(); ?>assets/images/logo-img.png" alt="logo">
                                         </a>
                                     </div><!-- site-branding end -->
@@ -67,16 +67,16 @@
                                         <nav class="main-menu menu-mobile" id="menu">
                                             <ul class="menu">
                                                 <li class="active">
-                                                    <a href="#" class="mega-menu-link">Home</a>
+                                                    <a href="<?php echo base_url(); ?>" class="mega-menu-link">Home</a>
                                                 </li>
                                                 <li class="mega-menu-item">
-                                                    <a href="#" class="mega-menu-link">Assistência</a>
+                                                    <a href="<?php echo base_url(); ?>assistencia" class="mega-menu-link">Assistência</a>
                                                 </li>                                                
                                                 <li class="mega-menu-item">
-                                                    <a href="#" class="mega-menu-link">Proteção</a>
+                                                    <a href="<?php echo base_url(); ?>protecao" class="mega-menu-link">Proteção</a>
                                                 </li>                                           
                                                 <li class="mega-menu-item">
-                                                    <a href="contact-us.html">Contato</a>
+                                                    <a href="<?php echo base_url(); ?>contato">Contato</a>
                                                 </li>
                                             </ul>
                                         </nav><!-- menu end -->
@@ -84,7 +84,7 @@
                                             <div class="widget_icon ttm-textcolor-skincolor"><i class="themifyicon ti-comments"></i></div>
                                             <div class="widget_content">
                                                 <h3 class="widget_title">Faça uma cotação</h3>
-                                                <p class="widget_desc">(24) 99839-5123</p>
+                                                <p class="widget_desc"><a href="https://wa.me/5524998395123" style="color: #00BAEB;" target="_blank">(24) 99839-5123</a></p>
                                             </div>
                                         </div>
                                     </div>

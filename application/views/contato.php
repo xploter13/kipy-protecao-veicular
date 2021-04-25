@@ -8,7 +8,7 @@
     <meta name="description" content="Kipy Proteção Veícular" />
     <meta name="author" content="#" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Kipy Proteção Veicular</title>
+    <title>Kipy Proteção Veicular .: Contato :.</title>
     <!-- <link rel="shortcut icon" href="<?php echo base_url(); ?>assets/images/favicon.png" /> -->
     <?php $this->load->view('includes/styles'); ?>
 
@@ -37,7 +37,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-12">
                             <div class="page-title-heading">
-                                <h2 class="title">Contato .: Contato :.</h2>
+                                <h2 class="title">Contato</h2>
                             </div>
                             <div class="breadcrumb-wrapper">
                                 <span>
