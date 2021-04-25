@@ -1,11 +1,16 @@
 /* CUSTOM CSS */
 
+.widget_info .widget_desc {
+    font-size: 22px;
+}
+
 .top_bar .top_bar_contact_item .top_bar_icon i {
     /* color: #e12454; */
     color: #fff;
 }
 
-.section-title h2.title {
+.section-title h2.title,
+.featured-title h3 {
     text-transform: initial;
 }
 

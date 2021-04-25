@@ -2,27 +2,15 @@
 <html lang="pt-br">
 
 <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="#" />
-<meta name="description" content="Kipy Proteção Veícular" />
-<meta name="author" content="#" />
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Kipy Proteção Veicular</title>
-
-<!-- <link rel="shortcut icon" href="<?php echo base_url(); ?>assets/images/favicon.png" /> -->
-<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/bootstrap.min.css"/>
-<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/animate.css"/>
-<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/font-awesome.css"/>
-<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/flaticon.css"/>
-<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/themify-icons.css"/>
-<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/slick.css">
-<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/prettyPhoto.css">
-<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/shortcodes.css"/>
-<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/main.css"/>
-<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/megamenu.css"/>
-<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/responsive.css"/>
-<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/custom.css"/>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="keywords" content="#" />
+    <meta name="description" content="Kipy Proteção Veícular" />
+    <meta name="author" content="#" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Kipy Proteção Veicular</title>
+    <!-- <link rel="shortcut icon" href="<?php echo base_url(); ?>assets/images/favicon.png" /> -->
+    <?php $this->load->view('includes/styles'); ?>
 
 </head>
 
@@ -39,104 +27,8 @@
         <!-- preloader end -->
         
         <!--header start-->
-        <header id="masthead" class="header ttm-header-style-01">
-            <!-- topbar -->
-            <div class="top_bar ttm-bgcolor-darkgrey clearfix">
-                <div class="container">
-                    <div class="row no-gutters">
-                        <div class="col-xl-12 d-flex flex-row align-items-center">
-                            <div class="top_bar_contact_item">
-                                <div class="top_bar_icon"><i class="ti ti-email"></i></div><a href="mailto:info@example.com">administrativo@kipyprotecaoveicular.com.br</a>
-                            </div>
-                            <div class="top_bar_contact_item">
-                                <div class="top_bar_icon"><i class="ti ti-location-pin"></i></div> Rua José Alves Pimenta 1851, Matadouro, Barra do Piraí - RJ 
-                            </div>
-                            <div class="top_bar_contact_item top_bar_social ml-auto p-0">
-                                <ul class="social-icons d-flex">
-                                    <li><a href="#" rel="noopener" aria-label="facebook"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#" rel="noopener" aria-label="google"><i class="fa fa-instagram"></i></a></li>
-                                </ul>
-                            </div>
-                            <div class="top_bar_contact_item d-flex align-items-center">
-                                <!-- <div class="header_search">
-                                    <a href="#" class="btn-default search_btn"><i class="fa fa-search"></i></a>
-                                    <div class="header_search_content">
-                                        <div class="header_search_content_inner">
-                                            <a href="#" class="close_btn"><i class="ti ti-close"></i></a>
-                                            <form id="searchbox" method="get" action="#">
-                                                <input class="search_query" type="text" id="search_query_top" name="s" placeholder="Type Word Then Enter.." value="">
-                                                <button type="submit" class="btn close-search"><i class="ti ti-search"></i></button>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div> -->
-                                <div class="ttm-bg ttm-col-bgcolor-yes ttm-right-span ttm-bgcolor-skincolor ttm-textcolor-white mr-auto margin_left50 padding_left15">
-                                    <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
-                                    <div class="layer-content">
-                                        <div class="header_btn">
-                                            <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-white btn-inline" href="#">Rastreie o seu veículo</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- topbar end -->
-            <!-- site-header-menu -->
-            <div id="site-header-menu" class="site-header-menu ttm-bgcolor-white">
-                <div class="site-header-menu-inner ttm-stickable-header">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-12">
-                                <!--site-navigation -->
-                                <div class="site-navigation d-flex flex-row align-items-center justify-content-between">
-                                    <!-- site-branding -->
-                                    <div class="site-branding ">
-                                        <a class="home-link" href="#" title="Axacus" rel="home">
-                                            <img id="logo-img" height="auto" width="175" class="img-fluid auto_size" src="<?php echo base_url(); ?>assets/images/logo-img.png" alt="logo">
-                                        </a>
-                                    </div><!-- site-branding end -->
-                                    <div class="d-flex flex-row">
-                                        <div class="btn-show-menu-mobile menubar menubar--squeeze">
-                                            <span class="menubar-box">
-                                                <span class="menubar-inner"></span>
-                                            </span>
-                                        </div>
-                                        <!-- menu -->
-                                        <nav class="main-menu menu-mobile" id="menu">
-                                            <ul class="menu">
-                                                <li class="active">
-                                                    <a href="#" class="mega-menu-link">Home</a>
-                                                </li>
-                                                <li class="mega-menu-item">
-                                                    <a href="#" class="mega-menu-link">Assistência</a>
-                                                </li>                                                
-                                                <li class="mega-menu-item">
-                                                    <a href="#" class="mega-menu-link">Proteção</a>
-                                                </li>                                           
-                                                <li class="mega-menu-item">
-                                                    <a href="contact-us.html">Contato</a>
-                                                </li>
-                                            </ul>
-                                        </nav><!-- menu end -->
-                                        <div class="widget_info d-flex flex-row align-items-center justify-content-end">
-                                            <div class="widget_icon ttm-textcolor-skincolor"><i class="themifyicon ti-comments"></i></div>
-                                            <div class="widget_content">
-                                                <h3 class="widget_title">Faça uma cotação</h3>
-                                                <p class="widget_desc">(24) 99839-5123</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div><!-- site-navigation end-->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- site-header-menu end-->
-        </header><!--header end-->
+        <?php $this->load->view('includes/header'); ?>
+        <!--header end-->
 
         <!-- Banner -->
         <div class="banner_slider">
@@ -430,7 +322,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div><!-- row end -->
+                            </div><!-- row end -->                            
                         </div>
                     </div>
                 </div>
@@ -616,6 +508,15 @@
                             </div>
                         </div>
                     </div>
+                    <div class="row pt-4">
+                        <div class="col-lg-12">
+                            <div class="margin_top35 res-991-margin_top15 res-991-mb_50 text-center">
+                                <a href="<?php echo base_url(); ?>assistencia" class="end_button">
+                                    <span>+</span>
+                                </a><span class="end_button_txt ttm-textcolor-darkgrey">Conheça mais</span>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </section>
             <!--tab-section end-->
@@ -623,109 +524,7 @@
 
 
         <!--footer start-->
-        <footer class="footer widget-footer ttm-bgcolor-darkgrey ttm-textcolor-white clearfix">
-            <div class="first-footer">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 widget-area">
-                            <div class="widget newsletter_widget clearfix">
-                                <h3>Newsletter</h3>
-                                <form id="subscribe-form" class="newsletter-form" method="post" action="#" data-mailchimp="true">
-                                    <div class="mailchimp-inputbox clearfix" id="subscribe-content"> 
-                                        <p>
-                                            <i class="fa fa-paper-plane-o"></i>
-                                            <input type="email" name="email" placeholder="Digite o seu melhor email..." required="">
-                                        </p>
-                                        <p><button class="submit ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-fill ttm-btn-color-skincolor" type="submit">Me inscrever</button></p>
-                                    </div>
-                                    <div id="subscribe-msg"></div>
-                                </form>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 widget-area">
-                            <div class="widget offer_widget clearfix">
-                                <div class="d-md-flex justify-content-between align-items-end">
-                                    <div class="padding_right50 position-relative">                                        
-                                        <h4>Cobertura</h4>
-                                        <h2>100% nacional</h2>
-                                    </div>
-                                    <div>
-                                        <a href="#" class="ttm-btn ttm-btn-size-md ttm-btn-style-border ttm-btn-shape-rounded ttm-btn-color-white">Solicite uma cotação</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="second-footer">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 widget-area">
-                            <div class="widget widget_text clearfix">
-                                <h3 class="widget-title">Sobre Nós</h3>
-                                <div class="textwidget widget-text">
-                                    <p>Axacus Consultancy is a one-stop shop offering accounting, financial and advisory services. Beneficial experienced finance professionals.</p>
-                                    <div class="call_detail">
-                                        <h3>Telefone</h3>
-                                        <p>(24) 99839-5123</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 widget-area">
-                            <div class="widget widget_nav_menu clearfix">
-                               <h3 class="widget-title">Empresa</h3>
-                               <ul id="menu-footer-quick-links" class="menu">
-                                    <li><a href="#">Make Appointment</a></li>
-                                    <li><a href="#">Customer Services</a></li>
-                                    <li><a href="#">Department</a></li>
-                                    <li><a href="#">About Company</a></li>
-                                    <li><a href="#">Our Case Studies</a></li>
-                                </ul>
-                            </div>
-                        </div>                        
-                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 widget-area">
-                            <div class="widget widget_nav_menu clearfix">
-                               <h3 class="widget-title">Institucional</h3>
-                               <ul id="menu-footer-quick-links" class="menu">
-                                    <li><a href="#">Make Appointment</a></li>
-                                    <li><a href="#">Customer Services</a></li>
-                                    <li><a href="#">Department</a></li>
-                                    <li><a href="#">About Company</a></li>
-                                    <li><a href="#">Our Case Studies</a></li>
-                                </ul>
-                            </div>
-                        </div>                        
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="bottom-footer-text copyright ttm-textcolor-white">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="d-lg-flex align-items-center justify-content-between text-center">
-                                <div class="order-1">
-                                    <div class="cpy-text">Copyright © 2021 <a href="#">Kipy Proteção Veicular</a>. Todos os direitos reservados.</div>
-                                </div>
-                                <div class="order-2 footer-logo">
-                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/footer-logo.svg" alt="logo">
-                                </div>
-                                <div class="order-3">
-                                    <div class="social-icons">
-                                        <ul class="social-icons list-inline">
-                                            <li><a class="tooltip-top" href="#" rel="noopener" aria-label="facebook" data-tooltip="Facebook"><i class="ti ti-facebook"></i></a></li>
-                                            <li><a class="tooltip-top" href="#" rel="noopener" aria-label="instagram" data-tooltip="Instagram"><i class="ti ti-instagram"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
+        <?php $this->load->view('includes/footer'); ?>
         <!--footer end-->
 
     <!--back-to-top start-->
@@ -738,18 +537,7 @@
 
 
     <!-- Javascript -->
-    <script src="<?php echo base_url(); ?>assets/js/jquery-3.6.0.min.js"></script>
-    <script src="<?php echo base_url(); ?>assets/js/jquery-migrate-3.3.2.min.js"></script>
-    <script src="<?php echo base_url(); ?>assets/js/bootstrap.min.js"></script> 
-    <script src="<?php echo base_url(); ?>assets/js/jquery.easing.js"></script> 
-    <script src="<?php echo base_url(); ?>assets/js/jquery-waypoints.js"></script>    
-    <script src="<?php echo base_url(); ?>assets/js/jquery-validate.js"></script> 
-    <script src="<?php echo base_url(); ?>assets/js/jquery.prettyPhoto.js"></script>
-    <script src="<?php echo base_url(); ?>assets/js/slick.min.js"></script>
-    <script src="<?php echo base_url(); ?>assets/js/numinate.min.js"></script>
-    <script src="<?php echo base_url(); ?>assets/js/imagesloaded.min.js"></script>
-    <script src="<?php echo base_url(); ?>assets/js/jquery-isotope.js"></script>
-    <script src="<?php echo base_url(); ?>assets/js/main.js"></script>
+    <?php $this->load->view('includes/scripts'); ?>
     <!-- Javascript end-->
 
 </body>
