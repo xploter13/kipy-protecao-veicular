@@ -95,240 +95,7 @@
 
     
         <!--site-main start-->
-        <div class="site-main">
-
-
-            <!--services-section-->
-            <section class="ttm-row services-section clearfix">
-                <div class="container">
-                    <!-- row -->
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <!-- section title -->
-                            <div class="section-title without-seperator title-style-center_text">
-                                <div class="title-header">
-                                    <h3>O que oferecemos?</h3>
-                                    <h2 class="title">Assistências</h2>
-                                </div>
-                                <div class="title-desc">
-                                    <p>Seu carro ou moto protegidos com a Kipy pra curtir a vida numa boa. <br> Conheça nossas principais assistências.</p>
-                                </div>
-                            </div><!-- section title end -->
-                        </div>
-                    </div><!-- row end -->
-                    <!-- row -->
-                    <div class="row row-equal-height">
-                        <div class="col-lg-3 col-md-6 col-sm-6">
-                            <!--featured-icon-box-->
-                            <div class="featured-icon-box icon-align-top-content style1">
-                                <div class="featured-icon">
-                                    <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-style-rounded ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                        <i class="flaticon flaticon-management"></i>
-                                    </div>
-                                </div>
-                                <div class="featured-content">
-                                    <div class="featured-title">
-                                        <h3>Reboque</h3>
-                                    </div>
-                                    <div class="featured-desc">
-                                        <p>Envio de reboque em caso de acidente ou pane do veículo, seja no âmbito mecânico ou elétrico.</p>
-                                    </div>
-                                    <!-- <a class="ttm-btn btn-inline ttm-btn-size-md ttm-btn-color-dark" href="strategy-planning.html">Saiba mais</a> -->
-                                </div>
-                            </div><!-- featured-icon-box end-->
-                        </div>
-                        <div class="col-lg-3 col-md-6 col-sm-6">
-                            <!--featured-icon-box-->
-                            <div class="featured-icon-box icon-align-top-content style1">
-                                <div class="featured-icon">
-                                    <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-style-rounded ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                        <i class="flaticon flaticon-idea-2"></i>
-                                    </div>
-                                </div>
-                                <div class="featured-content">
-                                    <div class="featured-title">
-                                        <h3>Táxi</h3>
-                                    </div>
-                                    <div class="featured-desc">
-                                        <p>Envio de táxi em caso de acidente, incêndio ou furto/roubo do veículo. Será providenciado táxi para o retorno ao endereço residencial do associado.</p>
-                                    </div>
-                                </div>
-                            </div><!-- featured-icon-box end-->
-                        </div>
-                        <div class="col-lg-3 col-md-6 col-sm-6">
-                            <!--featured-icon-box-->
-                            <div class="featured-icon-box icon-align-top-content style1">
-                                <div class="featured-icon">
-                                    <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-style-rounded ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                        <i class="flaticon flaticon-document"></i>
-                                    </div>
-                                </div>
-                                <div class="featured-content">
-                                    <div class="featured-title">
-                                        <h3>Troca de Pneus</h3>
-                                    </div>
-                                    <div class="featured-desc">
-                                        <p>Envio de reboque, para que o veículo seja levado à borracharia mais próxima, limitado a 100 km ida e volta (200 km totais ) do local da ocorrência.</p>
-                                    </div>
-                                </div>
-                            </div><!-- featured-icon-box end-->
-                        </div>
-                        <div class="col-lg-3 col-md-6 col-sm-6">
-                            <!--featured-icon-box-->
-                            <div class="featured-icon-box icon-align-top-content style1">
-                                <div class="featured-icon">
-                                    <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-style-rounded ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                        <i class="flaticon flaticon-corporate-1"></i>
-                                    </div>
-                                </div>
-                                <div class="featured-content">
-                                    <div class="featured-title">
-                                        <h3>Socorro Elétrico / Mecânico</h3>
-                                    </div>
-                                    <div class="featured-desc">
-                                        <p>Na hipótese de pane, que impossibilite a locomoção própria do veículo, o mesmo será rebocado, desde que não ultrapasse o limite contratado.</p>
-                                    </div>
-                                   <!--  <a class="ttm-btn btn-inline ttm-btn-size-md ttm-btn-color-dark" href="smart-self-services.html">Read More</a> -->
-                                </div>
-                            </div><!-- featured-icon-box end-->
-                        </div>
-                    </div><!-- row end -->
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="margin_top35 res-991-margin_top15 res-991-mb_50 text-center">
-                                <a href="<?php echo base_url(); ?>assistencia" class="end_button">
-                                    <span>+</span>
-                                </a><span class="end_button_txt ttm-textcolor-darkgrey">Conheça mais</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!--services-section-->
-
-
-            <!--padding_bottom_zero-section-->
-            <section class="ttm-row padding_bottom_zero-section bg-layer bg-layer-equal-height mt_20 clearfix">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="row no-gutters">
-                                <div class="col-lg-4 col-md-12">
-                                    <!-- col-img-img-one -->
-                                    <div class="ttm-bg ttm-col-bgimage-yes col-bg-img-one ttm-left-span z-index-2">
-                                        <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
-                                        <div class="layer-content">
-                                        </div>
-                                    </div><!-- col-img-bg-img-one end-->
-                                    <img class="img-fluid ttm-equal-height-image w-100" src="<?php echo base_url(); ?>assets/images/bg-image/col-bgimage-1.jpg" alt="bg-image">
-                                </div>
-                                <div class="col-lg-8">
-                                    <div class="ttm-bg ttm-col-bgcolor-yes ttm-bgcolor-darkgrey ttm-bg ttm-col-bgimage-yes col-bg-img-three ttm-right-span spacing-1 h-auto">
-                                        <div class="ttm-col-wrapper-bg-layer ttm-bg-layer">
-                                            <div class="ttm-col-wrapper-bg-layer-inner"></div>
-                                        </div>
-                                        <div class="layer-content">
-                                            <!-- section title -->
-                                            <div class="section-title">
-                                                <div class="title-header">
-                                                    <h3>Pensamos em você</h3>
-                                                    <h2 class="title">Aqui você tem liberdade para contratar e usar.</h2>
-                                                </div>
-                                                <div class="title-desc"><p>Na Kipy você tem Proteção e Benefícios sempre que precisar e onde estiver. Fique sempre tranquilo, porque estamos sempre preparados para te ajudar!</p></div>
-                                            </div><!-- section title end -->
-                                            <div class="padding_top15 padding_bottom30 res-991-padding_bottom30">
-                                                <!-- featured-icon-box -->
-                                                <div class="featured-icon-box icon-align-before-content style2 icon-ver_align-top">
-                                                    <div class="featured-icon">
-                                                        <div class="ttm-icon ttm-icon_element-border ttm-icon_element-color-white ttm-icon_element-size-md ttm-icon_element-style-round">
-                                                            <i class="flaticon flaticon-copyright"></i>
-                                                        </div>
-                                                    </div>
-                                                    <div class="featured-content">
-                                                        <div class="featured-title">
-                                                            <h3>Sem burocracia</h3>
-                                                        </div>
-                                                        <div class="featured-desc">
-                                                            <p>Você pode ser tornar um de nossos associados a qualquer momento. Sem consulta ao SPC/SERASA, cobertura para terceiros, proteção contra roubo/furto, sem análise de perfil, cobertura de perda total e muito mais.</p>
-                                                        </div>
-                                                    </div>
-                                                </div><!-- featured-icon-box end -->
-                                                <!-- featured-icon-box --
-                                                <div class="featured-icon-box icon-align-before-content style2  icon-ver_align-top">
-                                                    <div class="featured-icon">
-                                                        <div class="ttm-icon ttm-icon_element-border ttm-icon_element-color-white ttm-icon_element-size-md ttm-icon_element-style-round">
-                                                            <i class="flaticon flaticon-idea-4"></i>
-                                                        </div>
-                                                    </div>
-                                                    <div class="featured-content">
-                                                        <div class="featured-title">
-                                                            <h3>Business Process Outsourcing</h3>
-                                                        </div>
-                                                        <div class="featured-desc">
-                                                            <p>Today’s digitally disrupted market, where traditional revenue sources are becoming more sustainable growth.</p>
-                                                        </div>
-                                                    </div>
-                                                </div><!-- featured-icon-box end -->
-                                            </div>
-                                            <div class="padding_left30 padding_right30 padding_top15 padding_bottom15 ttm-bgcolor-white">
-                                                <div class="row">
-                                                    <div class="col-lg-4 col-md-4 col-sm-6">
-                                                        <!--featured-icon-box-->
-                                                        <div class="featured-icon-box icon-align-top-content ttm-bgcolor-skincolor p-20 padding_bottom15 padding_top25 text-center border-rad_6">
-                                                            <div class="featured-icon padding_top1">
-                                                                <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-white ttm-icon_element-size-md">
-                                                                    <i class="flaticon flaticon-idea-1"></i>
-                                                                </div>
-                                                            </div>
-                                                            <div class="featured-content">
-                                                                <div class="featured-title">
-                                                                    <h3>Qualidade</h3>
-                                                                </div>
-                                                            </div>
-                                                        </div><!-- featured-icon-box end-->
-                                                    </div>
-                                                    <div class="col-lg-4 col-md-4 col-sm-6">
-                                                        <!--featured-icon-box-->
-                                                        <div class="featured-icon-box icon-align-top-content ttm-bgcolor-darkgrey p-20 padding_bottom15 padding_top25 text-center border-rad_6">
-                                                            <div class="featured-icon padding_top1">
-                                                                <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-white ttm-icon_element-size-md">
-                                                                    <i class="flaticon flaticon-charts"></i>
-                                                                </div>
-                                                            </div>
-                                                            <div class="featured-content">
-                                                                <div class="featured-title">
-                                                                    <h3>Proteção</h3>
-                                                                </div>
-                                                            </div>
-                                                        </div><!-- featured-icon-box end-->
-                                                    </div>
-                                                    <div class="col-lg-4 col-md-4 col-sm-6">
-                                                        <!--featured-icon-box-->
-                                                        <div class="featured-icon-box icon-align-top-content ttm-bgcolor-skincolor p-20 padding_bottom15 padding_top25 text-center border-rad_6">
-                                                            <div class="featured-icon padding_top1">
-                                                                <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-white ttm-icon_element-size-md">
-                                                                    <i class="flaticon flaticon-corporate-3"></i>
-                                                                </div>
-                                                            </div>
-                                                            <div class="featured-content">
-                                                                <div class="featured-title">
-                                                                    <h3>Confiança</h3>
-                                                                </div>
-                                                            </div>
-                                                        </div><!-- featured-icon-box end-->
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div><!-- row end -->                            
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!--padding_bottom_zero-section-->
-
+        <div class="site-main">   
 
             <!--tab-section-->
             <section class="ttm-row tab-section clearfix">
@@ -471,7 +238,246 @@
                     </div>
                 </div>
             </section>
-            <!--tab-section end-->
+            <!--tab-section end-->         
+
+            <!--padding_bottom_zero-section-->
+            <section class="ttm-row padding_bottom_zero-section bg-layer bg-layer-equal-height mt_20 clearfix">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="row no-gutters">
+                                <div class="col-lg-4 col-md-12">
+                                    <!-- col-img-img-one -->
+                                    <div class="ttm-bg ttm-col-bgimage-yes col-bg-img-one ttm-left-span z-index-2">
+                                        <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
+                                        <div class="layer-content">
+                                        </div>
+                                    </div><!-- col-img-bg-img-one end-->
+                                    <img class="img-fluid ttm-equal-height-image w-100" src="<?php echo base_url(); ?>assets/images/bg-image/col-bgimage-1.jpg" alt="bg-image">
+                                </div>
+                                <div class="col-lg-8">
+                                    <div class="ttm-bg ttm-col-bgcolor-yes ttm-bgcolor-darkgrey ttm-bg ttm-col-bgimage-yes col-bg-img-three ttm-right-span spacing-1 h-auto">
+                                        <div class="ttm-col-wrapper-bg-layer ttm-bg-layer">
+                                            <div class="ttm-col-wrapper-bg-layer-inner"></div>
+                                        </div>
+                                        <div class="layer-content">
+                                            <!-- section title -->
+                                            <div class="section-title">
+                                                <div class="title-header">
+                                                    <h3>Pensamos em você</h3>
+                                                    <h2 class="title">Aqui você tem liberdade para contratar e usar.</h2>
+                                                </div>
+                                                <div class="title-desc"><p>Na Kipy você tem Proteção e Benefícios sempre que precisar e onde estiver. Fique sempre tranquilo, porque estamos sempre preparados para te ajudar!</p></div>
+                                            </div><!-- section title end -->
+                                            <div class="padding_top15 padding_bottom30 res-991-padding_bottom30">
+                                                <!-- featured-icon-box -->
+                                                <div class="featured-icon-box icon-align-before-content style2 icon-ver_align-top">
+                                                    <div class="featured-icon">
+                                                        <div class="ttm-icon ttm-icon_element-border ttm-icon_element-color-white ttm-icon_element-size-md ttm-icon_element-style-round">
+                                                            <i class="flaticon flaticon-copyright"></i>
+                                                        </div>
+                                                    </div>
+                                                    <div class="featured-content">
+                                                        <div class="featured-title">
+                                                            <h3>Sem burocracia</h3>
+                                                        </div>
+                                                        <div class="featured-desc">
+                                                            <!-- <p>Você pode ser tornar um de nossos associados a qualquer momento. Sem consulta ao SPC/SERASA, cobertura para terceiros, proteção contra roubo/furto, sem análise de perfil, cobertura de perda total e muito mais.</p> -->
+                                                            VEJA COMO É FACIL PROTEGER COM A KIPY
+                                                            <ul class="list-unstyled">
+                                                                <li>* Sem consulta de SPC/SERASA</li>
+                                                                <li>* Sem perfil de condutor</li>
+                                                                <li>* Sem perfil de idade ( desde que seja habilitado)</li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- featured-icon-box end -->
+                                                <!-- featured-icon-box --
+                                                <div class="featured-icon-box icon-align-before-content style2  icon-ver_align-top">
+                                                    <div class="featured-icon">
+                                                        <div class="ttm-icon ttm-icon_element-border ttm-icon_element-color-white ttm-icon_element-size-md ttm-icon_element-style-round">
+                                                            <i class="flaticon flaticon-idea-4"></i>
+                                                        </div>
+                                                    </div>
+                                                    <div class="featured-content">
+                                                        <div class="featured-title">
+                                                            <h3>Business Process Outsourcing</h3>
+                                                        </div>
+                                                        <div class="featured-desc">
+                                                            <p>Today’s digitally disrupted market, where traditional revenue sources are becoming more sustainable growth.</p>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- featured-icon-box end -->
+                                            </div>
+                                            <div class="padding_left30 padding_right30 padding_top15 padding_bottom15 ttm-bgcolor-white">
+                                                <div class="row">
+                                                    <div class="col-lg-4 col-md-4 col-sm-6">
+                                                        <!--featured-icon-box-->
+                                                        <div class="featured-icon-box icon-align-top-content ttm-bgcolor-skincolor p-20 padding_bottom15 padding_top25 text-center border-rad_6">
+                                                            <div class="featured-icon padding_top1">
+                                                                <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-white ttm-icon_element-size-md">
+                                                                    <i class="flaticon flaticon-idea-1"></i>
+                                                                </div>
+                                                            </div>
+                                                            <div class="featured-content">
+                                                                <div class="featured-title">
+                                                                    <h3>Qualidade</h3>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- featured-icon-box end-->
+                                                    </div>
+                                                    <div class="col-lg-4 col-md-4 col-sm-6">
+                                                        <!--featured-icon-box-->
+                                                        <div class="featured-icon-box icon-align-top-content ttm-bgcolor-darkgrey p-20 padding_bottom15 padding_top25 text-center border-rad_6">
+                                                            <div class="featured-icon padding_top1">
+                                                                <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-white ttm-icon_element-size-md">
+                                                                    <i class="flaticon flaticon-charts"></i>
+                                                                </div>
+                                                            </div>
+                                                            <div class="featured-content">
+                                                                <div class="featured-title">
+                                                                    <h3>Proteção</h3>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- featured-icon-box end-->
+                                                    </div>
+                                                    <div class="col-lg-4 col-md-4 col-sm-6">
+                                                        <!--featured-icon-box-->
+                                                        <div class="featured-icon-box icon-align-top-content ttm-bgcolor-skincolor p-20 padding_bottom15 padding_top25 text-center border-rad_6">
+                                                            <div class="featured-icon padding_top1">
+                                                                <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-white ttm-icon_element-size-md">
+                                                                    <i class="flaticon flaticon-corporate-3"></i>
+                                                                </div>
+                                                            </div>
+                                                            <div class="featured-content">
+                                                                <div class="featured-title">
+                                                                    <h3>Confiança</h3>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- featured-icon-box end-->
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div><!-- row end -->                            
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--padding_bottom_zero-section-->
+
+            <!--services-section-->
+            <section class="ttm-row services-section clearfix">
+                <div class="container">
+                    <!-- row -->
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <!-- section title -->
+                            <div class="section-title without-seperator title-style-center_text">
+                                <div class="title-header">
+                                    <h3>O que oferecemos?</h3>
+                                    <h2 class="title">Assistências</h2>
+                                </div>
+                                <div class="title-desc">
+                                    <p>Seu carro ou moto protegidos com a Kipy pra curtir a vida numa boa. <br> Conheça nossas principais assistências.</p>
+                                </div>
+                            </div><!-- section title end -->
+                        </div>
+                    </div><!-- row end -->
+                    <!-- row -->
+                    <div class="row row-equal-height">
+                        <div class="col-lg-3 col-md-6 col-sm-6">
+                            <!--featured-icon-box-->
+                            <div class="featured-icon-box icon-align-top-content style1">
+                                <div class="featured-icon">
+                                    <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-style-rounded ttm-icon_element-color-skincolor ttm-icon_element-size-md">
+                                        <i class="flaticon flaticon-management"></i>
+                                    </div>
+                                </div>
+                                <div class="featured-content">
+                                    <div class="featured-title">
+                                        <h3>Reboque</h3>
+                                    </div>
+                                    <div class="featured-desc">
+                                        <p>Envio de reboque em caso de acidente ou pane do veículo, seja no âmbito mecânico ou elétrico.</p>
+                                    </div>
+                                    <!-- <a class="ttm-btn btn-inline ttm-btn-size-md ttm-btn-color-dark" href="strategy-planning.html">Saiba mais</a> -->
+                                </div>
+                            </div><!-- featured-icon-box end-->
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6">
+                            <!--featured-icon-box-->
+                            <div class="featured-icon-box icon-align-top-content style1">
+                                <div class="featured-icon">
+                                    <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-style-rounded ttm-icon_element-color-skincolor ttm-icon_element-size-md">
+                                        <i class="flaticon flaticon-idea-2"></i>
+                                    </div>
+                                </div>
+                                <div class="featured-content">
+                                    <div class="featured-title">
+                                        <h3>Táxi</h3>
+                                    </div>
+                                    <div class="featured-desc">
+                                        <p>Envio de táxi em caso de acidente, incêndio ou furto/roubo do veículo. Será providenciado táxi para o retorno ao endereço residencial do associado.</p>
+                                    </div>
+                                </div>
+                            </div><!-- featured-icon-box end-->
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6">
+                            <!--featured-icon-box-->
+                            <div class="featured-icon-box icon-align-top-content style1">
+                                <div class="featured-icon">
+                                    <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-style-rounded ttm-icon_element-color-skincolor ttm-icon_element-size-md">
+                                        <i class="flaticon flaticon-document"></i>
+                                    </div>
+                                </div>
+                                <div class="featured-content">
+                                    <div class="featured-title">
+                                        <h3>Troca de Pneus</h3>
+                                    </div>
+                                    <div class="featured-desc">
+                                        <p>Envio de reboque, para que o veículo seja levado à borracharia mais próxima, limitado a 100 km ida e volta (200 km totais ) do local da ocorrência.</p>
+                                    </div>
+                                </div>
+                            </div><!-- featured-icon-box end-->
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6">
+                            <!--featured-icon-box-->
+                            <div class="featured-icon-box icon-align-top-content style1">
+                                <div class="featured-icon">
+                                    <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-style-rounded ttm-icon_element-color-skincolor ttm-icon_element-size-md">
+                                        <i class="flaticon flaticon-corporate-1"></i>
+                                    </div>
+                                </div>
+                                <div class="featured-content">
+                                    <div class="featured-title">
+                                        <h3>Socorro Elétrico / Mecânico</h3>
+                                    </div>
+                                    <div class="featured-desc">
+                                        <p>Na hipótese de pane, que impossibilite a locomoção própria do veículo, o mesmo será rebocado, desde que não ultrapasse o limite contratado.</p>
+                                    </div>
+                                   <!--  <a class="ttm-btn btn-inline ttm-btn-size-md ttm-btn-color-dark" href="smart-self-services.html">Read More</a> -->
+                                </div>
+                            </div><!-- featured-icon-box end-->
+                        </div>
+                    </div><!-- row end -->
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="margin_top35 res-991-margin_top15 res-991-mb_50 text-center">
+                                <a href="<?php echo base_url(); ?>assistencia" class="end_button">
+                                    <span>+</span>
+                                </a><span class="end_button_txt ttm-textcolor-darkgrey">Conheça mais</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--services-section-->
+
+
+            
         </div><!--site-main end-->
 
 

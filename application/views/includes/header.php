@@ -1,6 +1,6 @@
         <header id="masthead" class="header ttm-header-style-01">
             <!-- topbar -->
-            <div class="top_bar ttm-bgcolor-darkgrey clearfix">
+            <div class="top_bar ttm-bgcolor-darkgrey ttm-bgcolor-custom clearfix">
                 <div class="container">
                     <div class="row no-gutters">
                         <div class="col-xl-12 d-flex flex-row align-items-center">
@@ -54,7 +54,7 @@
                                     <!-- site-branding -->
                                     <div class="site-branding ">
                                         <a class="home-link" href="<?php echo base_url(); ?>" title="Axacus" rel="home">
-                                            <img id="logo-img" height="auto" width="175" class="img-fluid auto_size" src="<?php echo base_url(); ?>assets/images/logo-img.png" alt="logo">
+                                            <img id="logo-img" height="auto" width="190" class="img-fluid auto_size" src="<?php echo base_url(); ?>assets/images/logo-img.jpeg" alt="logo">
                                         </a>
                                     </div><!-- site-branding end -->
                                     <div class="d-flex flex-row">

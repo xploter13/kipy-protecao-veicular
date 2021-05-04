@@ -9,6 +9,14 @@
     color: #fff;
 }
 
+.ttm-bgcolor-custom {
+    background-color: #00baeb;
+}
+
+.ttm-bgcolor-custom i:hover {
+    color: #fff !important;
+}
+
 .section-title h2.title,
 .featured-title h3 {
     text-transform: initial;
