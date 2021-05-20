@@ -17,6 +17,7 @@
             whatsapp: "5524998395123", // WhatsApp number
             call_to_action: "Olá, como podemos te ajudar?", // Call to action
             position: "right", // Position may be 'right' or 'left'
+            order: "whatsapp", // Order of buttons
         };
         var proto = document.location.protocol,
             host = "whatshelp.io",
@@ -30,5 +31,5 @@
         };
         var x = document.getElementsByTagName('script')[0];
         x.parentNode.insertBefore(s, x);
-        })();
+        })();        
     </script>

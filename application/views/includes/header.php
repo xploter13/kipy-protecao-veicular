@@ -33,7 +33,7 @@
                                     <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
                                     <div class="layer-content">
                                         <div class="header_btn">
-                                            <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-white btn-inline" href="#">Rastreie o seu veículo</a>
+                                            <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-white btn-inline" href="http://ap3.stc.srv.br/webcliente/liderrastreamento">Rastreie o seu veículo</a>
                                         </div>
                                     </div>
                                 </div>
@@ -68,10 +68,10 @@
                                             <ul class="menu">
                                                 <li class="active">
                                                     <a href="<?php echo base_url(); ?>" class="mega-menu-link">Home</a>
-                                                </li>
+                                                </li>   
                                                 <li class="mega-menu-item">
-                                                    <a href="<?php echo base_url(); ?>assistencia" class="mega-menu-link">Assistência</a>
-                                                </li>                                                
+                                                    <a href="#" class="mega-menu-link">Assistência</a>
+                                                </li>                                           
                                                 <li class="mega-menu-item">
                                                     <a href="<?php echo base_url(); ?>protecao" class="mega-menu-link">Proteção</a>
                                                 </li>                                           

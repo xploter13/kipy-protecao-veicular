@@ -66,177 +66,322 @@
                                 <div class="featured-content">
                                     <div class="ser_cate">Assistência</div>
                                     <div class="featured-title">
-                                        <h3><a href="#">Reboque</a></h3>
-                                    </div>
-                                </div>
-                                <div class="ttm-box-view-overlay border-rad_6">
-                                    <!-- featured-thumbnail -->
-                                    <div class="featured-thumbnail">
-                                        <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-01-1200x800.jpg" alt="image">
-                                    </div><!-- featured-thumbnail end-->                                    
-                                </div>
-                                <div class="featured-hover-content-">
-                                    <div class="featured-desc- mt-5">
-                                        <p>Envio de reboque em caso de acidente ou pane do veículo, seja no âmbito mecânico ou elétrico.</p>
-                                    </div>
-                                    <!-- <div class="bottom-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor" href="strategy-planning.html">read more</a>
-                                    </div> -->
-                                </div>
-                            </div><!-- featured-imagebox end-->
-                        </div>
-                        <div class="col-lg-4 col-md-6">
-                            <!--featured-imagebox-->
-                            <div class="featured-imagebox featured-imagebox-services style2">
-                                <div class="featured-content">
-                                    <div class="ser_cate">Assistência</div>
-                                    <div class="featured-title">
-                                        <h3><a href="#">Táxi</a></h3>
-                                    </div>
-                                </div>
-                                <div class="ttm-box-view-overlay border-rad_6">
-                                    <!-- featured-thumbnail -->
-                                    <div class="featured-thumbnail">
-                                        <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-02-1200x800.jpg" alt="image">
-                                    </div><!-- featured-thumbnail end-->                                    
-                                </div>
-                                <div class="featured-hover-content-">
-                                    <div class="featured-desc- mt-5">
-                                        <p>Em caso de acidente, incêndio, furto/roubo do veículo em até 40KM do domicílio, conforme cadastro, será providenciado táxi até o endereço residencial do associado.</p>
-                                    </div>
-                                    <!-- <div class="bottom-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor" href="advance-report.html">read more</a>
-                                    </div> -->
-                                </div>
-                            </div><!-- featured-imagebox end-->
-                        </div>
-                        <div class="col-lg-4 col-md-6">
-                            <!--featured-imagebox-->
-                            <div class="featured-imagebox featured-imagebox-services style2">
-                                <div class="featured-content">
-                                    <div class="ser_cate">Assistência</div>
-                                    <div class="featured-title">
-                                        <h3><a href="#">Troca de Pneus</a></h3>
-                                    </div>
-                                </div>
-                                <div class="ttm-box-view-overlay border-rad_6">
-                                    <!-- featured-thumbnail -->
-                                    <div class="featured-thumbnail">
-                                        <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-03-1200x800.jpg" alt="image">
-                                    </div><!-- featured-thumbnail end-->                                    
-                                </div>
-                                <div class="featured-hover-content-">
-                                    <div class="featured-desc- mt-5">
-                                        <p>Na hipótese de ocorrerem danos ao(s) pneumáticos, que impossibilitem a locomoção do veículo por seus próprios meios, a Central de Assistência dispononibilizará o serviço de reboque,
-                                    para que o veículo seja levado à borracharia mais próxima, desde que não ultrapasse o limite contratado.</p>
-                                    </div>
-                                    <!-- <div class="bottom-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor" href="bussiness-gowth.html">read more</a>
-                                    </div> -->
-                                </div>
-                            </div><!-- featured-imagebox end-->
-                        </div>
-                        <div class="col-lg-4 col-md-6">
-                            <!--featured-imagebox-->
-                            <div class="featured-imagebox featured-imagebox-services style2">
-                                <div class="featured-content">
-                                    <div class="ser_cate">Assistência</div>
-                                    <div class="featured-title">
-                                        <h3><a href="#">Socorro Elétrico / Mecânico</a></h3>
+                                        <h3><a href="<?php echo base_url(); ?>assistencia/socorro-mecanico-eletrico">Socorro Mecânico <br> ou Elétrico</a></h3>
                                     </div>
                                 </div>
                                 <div class="ttm-box-view-overlay border-rad_6">
                                     <!-- featured-thumbnail -->
                                     <div class="featured-thumbnail">
                                         <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-04-1200x800.jpg" alt="image">
-                                    </div><!-- featured-thumbnail end-->                                    
-                                </div>
-                                <div class="featured-hover-content-">
-                                    <div class="featured-desc- mt-5">
-                                        <p>Na hipótese de pane, que impossibilite a locomoção própria do veículo, o veículo será rebocado, desde que não ultrapasse o limite contratado.</p>
+                                    </div><!-- featured-thumbnail end-->
+                                    <div class="featured-hover-content">
+                                        <div class="bottom-footer">
+                                            <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor" href="<?php echo base_url(); ?>assistencia/socorro-mecanico-eletrico">Saiba Mais</a>
+                                        </div>
                                     </div>
-                                    <!-- <div class="bottom-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor" href="bussiness-gowth.html">read more</a>
-                                    </div> -->
                                 </div>
                             </div><!-- featured-imagebox end-->
                         </div>
+
                         <div class="col-lg-4 col-md-6">
                             <!--featured-imagebox-->
                             <div class="featured-imagebox featured-imagebox-services style2">
                                 <div class="featured-content">
                                     <div class="ser_cate">Assistência</div>
                                     <div class="featured-title">
-                                        <h3><a href="#">Pane Seca</a></h3>
-                                    </div>
-                                </div>
-                                <div class="ttm-box-view-overlay border-rad_6">
-                                    <!-- featured-thumbnail -->
-                                    <div class="featured-thumbnail">
-                                        <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-05-1200x800.jpg" alt="image">
-                                    </div><!-- featured-thumbnail end-->                                    
-                                </div>
-                                <div class="featured-hover-content-">
-                                    <div class="featured-desc- mt-5">
-                                        <p>Na hipótese de impossibilidade de locomoção do veículo, por falta de combustível, a Central de Assistência providenciará o serviço de reboque parra que o mesmo
-                                    seja levado até o posto de combustível mais próximo, desde que não ultrapasse o limite contratado.</p>
-                                    </div>
-                                    <!-- <div class="bottom-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor" href="smart-self-services.html">read more</a>
-                                    </div> -->
-                                </div>
-                            </div><!-- featured-imagebox end-->
-                        </div>
-                        <div class="col-lg-4 col-md-6">
-                            <!--featured-imagebox-->
-                            <div class="featured-imagebox featured-imagebox-services style2">
-                                <div class="featured-content">
-                                    <div class="ser_cate">Assistência</div>
-                                    <div class="featured-title">
-                                        <h3><a href="#">Chaveiro</a></h3>
+                                        <h3><a href="#">Reboque após Pane ou Evento Previsto</a></h3>
                                     </div>
                                 </div>
                                 <div class="ttm-box-view-overlay border-rad_6">
                                     <!-- featured-thumbnail -->
                                     <div class="featured-thumbnail">
                                         <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-02-1200x800.jpg" alt="image">
-                                    </div><!-- featured-thumbnail end-->                                    
-                                </div>
-                                <div class="featured-hover-content-">
-                                    <div class="featured-desc- mt-5">
-                                        <p>Após o conserto do veículo, em evento que tenha sido atendido pela assistência em município situado à mais de 100KM (cem quilômetros) do local de residência do associado ou pessoa de confiança que possa retirar o veículo.</p>
-                                    </div>
-                                    <!-- <div class="bottom-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor" href="advance-report.html">read more</a>
-                                    </div> -->
-                                </div>
+                                    </div><!-- featured-thumbnail end-->       
+                                    <div class="featured-hover-content">
+                                        <div class="bottom-footer">
+                                            <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor" href="#">Saiba Mais</a>
+                                        </div>
+                                    </div>                            
+                                </div>                                
                             </div><!-- featured-imagebox end-->
                         </div>
+
                         <div class="col-lg-4 col-md-6">
                             <!--featured-imagebox-->
                             <div class="featured-imagebox featured-imagebox-services style2">
                                 <div class="featured-content">
                                     <div class="ser_cate">Assistência</div>
                                     <div class="featured-title">
-                                        <h3><a href="#">Hospedagem</a></h3>
+                                        <h3><a href="#">Auxílio em Danos Pneumáticos</a></h3>
                                     </div>
                                 </div>
                                 <div class="ttm-box-view-overlay border-rad_6">
                                     <!-- featured-thumbnail -->
                                     <div class="featured-thumbnail">
                                         <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-02-1200x800.jpg" alt="image">
-                                    </div><!-- featured-thumbnail end-->                                    
-                                </div>
-                                <div class="featured-hover-content-">
-                                    <div class="featured-desc- mt-5">
-                                        <p>Em caso de evento previamente atendido pela Central de Assistência proporcionará ao motorista do veículo, e de seus acompanhantes (considerada a capacidade legal do veículo), estadida em hotel com diária máxima de R$ 80,00 (oitenta reais) por pessoa.</p>
-                                    </div>
-                                    <!-- <div class="bottom-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor" href="advance-report.html">read more</a>
-                                    </div> -->
-                                </div>
+                                    </div><!-- featured-thumbnail end-->       
+                                    <div class="featured-hover-content">
+                                        <div class="bottom-footer">
+                                            <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor" href="#">Saiba Mais</a>
+                                        </div>
+                                    </div>                            
+                                </div>                                
                             </div><!-- featured-imagebox end-->
                         </div>
+
+                        <div class="col-lg-4 col-md-6">
+                            <!--featured-imagebox-->
+                            <div class="featured-imagebox featured-imagebox-services style2">
+                                <div class="featured-content">
+                                    <div class="ser_cate">Assistência</div>
+                                    <div class="featured-title">
+                                        <h3><a href="#">Reboque em Caso de Pane Seca</a></h3>
+                                    </div>
+                                </div>
+                                <div class="ttm-box-view-overlay border-rad_6">
+                                    <!-- featured-thumbnail -->
+                                    <div class="featured-thumbnail">
+                                        <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-02-1200x800.jpg" alt="image">
+                                    </div><!-- featured-thumbnail end-->       
+                                    <div class="featured-hover-content">
+                                        <div class="bottom-footer">
+                                            <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor" href="#">Saiba Mais</a>
+                                        </div>
+                                    </div>                            
+                                </div>                                
+                            </div><!-- featured-imagebox end-->
+                        </div>
+
+                        <div class="col-lg-4 col-md-6">
+                            <!--featured-imagebox-->
+                            <div class="featured-imagebox featured-imagebox-services style2">
+                                <div class="featured-content">
+                                    <div class="ser_cate">Assistência</div>
+                                    <div class="featured-title">
+                                        <h3><a href="#">Táxi Emergencial</a> <br> &nbsp;</h3>
+                                    </div>
+                                </div>
+                                <div class="ttm-box-view-overlay border-rad_6">
+                                    <!-- featured-thumbnail -->
+                                    <div class="featured-thumbnail">
+                                        <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-02-1200x800.jpg" alt="image">
+                                    </div><!-- featured-thumbnail end-->       
+                                    <div class="featured-hover-content">
+                                        <div class="bottom-footer">
+                                            <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor" href="#">Saiba Mais</a>
+                                        </div>
+                                    </div>                            
+                                </div>                                
+                            </div><!-- featured-imagebox end-->
+                        </div>
+
+                        <div class="col-lg-4 col-md-6">
+                            <!--featured-imagebox-->
+                            <div class="featured-imagebox featured-imagebox-services style2">
+                                <div class="featured-content">
+                                    <div class="ser_cate">Assistência</div>
+                                    <div class="featured-title">
+                                        <h3><a href="#">Guarda do Veículo</a> <br> &nbsp;</h3>
+                                    </div>
+                                </div>
+                                <div class="ttm-box-view-overlay border-rad_6">
+                                    <!-- featured-thumbnail -->
+                                    <div class="featured-thumbnail">
+                                        <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-02-1200x800.jpg" alt="image">
+                                    </div><!-- featured-thumbnail end-->       
+                                    <div class="featured-hover-content">
+                                        <div class="bottom-footer">
+                                            <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor" href="#">Saiba Mais</a>
+                                        </div>
+                                    </div>                            
+                                </div>                                
+                            </div><!-- featured-imagebox end-->
+                        </div>
+
+                        <div class="col-lg-4 col-md-6">
+                            <!--featured-imagebox-->
+                            <div class="featured-imagebox featured-imagebox-services style2">
+                                <div class="featured-content">
+                                    <div class="ser_cate">Assistência</div>
+                                    <div class="featured-title">
+                                        <h3><a href="#">Transporte para Recuperação do Veículo</a></h3>
+                                    </div>
+                                </div>
+                                <div class="ttm-box-view-overlay border-rad_6">
+                                    <!-- featured-thumbnail -->
+                                    <div class="featured-thumbnail">
+                                        <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-02-1200x800.jpg" alt="image">
+                                    </div><!-- featured-thumbnail end-->       
+                                    <div class="featured-hover-content">
+                                        <div class="bottom-footer">
+                                            <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor" href="#">Saiba Mais</a>
+                                        </div>
+                                    </div>                            
+                                </div>                                
+                            </div><!-- featured-imagebox end-->
+                        </div>
+
+                        <div class="col-lg-4 col-md-6">
+                            <!--featured-imagebox-->
+                            <div class="featured-imagebox featured-imagebox-services style2">
+                                <div class="featured-content">
+                                    <div class="ser_cate">Assistência</div>
+                                    <div class="featured-title">
+                                        <h3><a href="#">Motorista Substituto</a> <br> &nbsp;</h3>
+                                    </div>
+                                </div>
+                                <div class="ttm-box-view-overlay border-rad_6">
+                                    <!-- featured-thumbnail -->
+                                    <div class="featured-thumbnail">
+                                        <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-02-1200x800.jpg" alt="image">
+                                    </div><!-- featured-thumbnail end-->       
+                                    <div class="featured-hover-content">
+                                        <div class="bottom-footer">
+                                            <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor" href="#">Saiba Mais</a>
+                                        </div>
+                                    </div>                            
+                                </div>                                
+                            </div><!-- featured-imagebox end-->
+                        </div>
+
+                        <div class="col-lg-4 col-md-6">
+                            <!--featured-imagebox-->
+                            <div class="featured-imagebox featured-imagebox-services style2">
+                                <div class="featured-content">
+                                    <div class="ser_cate">Assistência</div>
+                                    <div class="featured-title">
+                                        <h3><a href="#">Chaveiro Auto</a> <br> &nbsp;</h3>
+                                    </div>
+                                </div>
+                                <div class="ttm-box-view-overlay border-rad_6">
+                                    <!-- featured-thumbnail -->
+                                    <div class="featured-thumbnail">
+                                        <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-02-1200x800.jpg" alt="image">
+                                    </div><!-- featured-thumbnail end-->       
+                                    <div class="featured-hover-content">
+                                        <div class="bottom-footer">
+                                            <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor" href="#">Saiba Mais</a>
+                                        </div>
+                                    </div>                            
+                                </div>                                
+                            </div><!-- featured-imagebox end-->
+                        </div>
+
+                        <div class="col-lg-4 col-md-6">
+                            <!--featured-imagebox-->
+                            <div class="featured-imagebox featured-imagebox-services style2">
+                                <div class="featured-content">
+                                    <div class="ser_cate">Assistência</div>
+                                    <div class="featured-title">
+                                        <h3><a href="#">Meio de Transporte Alternativo</a></h3>
+                                    </div>
+                                </div>
+                                <div class="ttm-box-view-overlay border-rad_6">
+                                    <!-- featured-thumbnail -->
+                                    <div class="featured-thumbnail">
+                                        <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-02-1200x800.jpg" alt="image">
+                                    </div><!-- featured-thumbnail end-->       
+                                    <div class="featured-hover-content">
+                                        <div class="bottom-footer">
+                                            <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor" href="#">Saiba Mais</a>
+                                        </div>
+                                    </div>                            
+                                </div>                                
+                            </div><!-- featured-imagebox end-->
+                        </div>
+
+                        <div class="col-lg-4 col-md-6">
+                            <!--featured-imagebox-->
+                            <div class="featured-imagebox featured-imagebox-services style2">
+                                <div class="featured-content">
+                                    <div class="ser_cate">Assistência</div>
+                                    <div class="featured-title">
+                                        <h3><a href="#">Hospedagem</a> <br> &nbsp;</h3>
+                                    </div>
+                                </div>
+                                <div class="ttm-box-view-overlay border-rad_6">
+                                    <!-- featured-thumbnail -->
+                                    <div class="featured-thumbnail">
+                                        <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-02-1200x800.jpg" alt="image">
+                                    </div><!-- featured-thumbnail end-->       
+                                    <div class="featured-hover-content">
+                                        <div class="bottom-footer">
+                                            <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor" href="#">Saiba Mais</a>
+                                        </div>
+                                    </div>                            
+                                </div>                                
+                            </div><!-- featured-imagebox end-->
+                        </div>
+
+                        <div class="col-lg-4 col-md-6">
+                            <!--featured-imagebox-->
+                            <div class="featured-imagebox featured-imagebox-services style2">
+                                <div class="featured-content">
+                                    <div class="ser_cate">Assistência</div>
+                                    <div class="featured-title">
+                                        <h3><a href="#">Remoção Hospitalar após Acidente</a></h3>
+                                    </div>
+                                </div>
+                                <div class="ttm-box-view-overlay border-rad_6">
+                                    <!-- featured-thumbnail -->
+                                    <div class="featured-thumbnail">
+                                        <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-02-1200x800.jpg" alt="image">
+                                    </div><!-- featured-thumbnail end-->       
+                                    <div class="featured-hover-content">
+                                        <div class="bottom-footer">
+                                            <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor" href="#">Saiba Mais</a>
+                                        </div>
+                                    </div>                            
+                                </div>                                
+                            </div><!-- featured-imagebox end-->
+                        </div>
+
+                        <div class="col-lg-4 col-md-6">
+                            <!--featured-imagebox-->
+                            <div class="featured-imagebox featured-imagebox-services style2">
+                                <div class="featured-content">
+                                    <div class="ser_cate">Assistência</div>
+                                    <div class="featured-title">
+                                        <h3><a href="#">Envio de Acompanhante em Caso de Acidente</a></h3>
+                                    </div>
+                                </div>
+                                <div class="ttm-box-view-overlay border-rad_6">
+                                    <!-- featured-thumbnail -->
+                                    <div class="featured-thumbnail">
+                                        <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-02-1200x800.jpg" alt="image">
+                                    </div><!-- featured-thumbnail end-->       
+                                    <div class="featured-hover-content">
+                                        <div class="bottom-footer">
+                                            <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor" href="#">Saiba Mais</a>
+                                        </div>
+                                    </div>                            
+                                </div>                                
+                            </div><!-- featured-imagebox end-->
+                        </div>
+
+                        <div class="col-lg-4 col-md-6">
+                            <!--featured-imagebox-->
+                            <div class="featured-imagebox featured-imagebox-services style2">
+                                <div class="featured-content">
+                                    <div class="ser_cate">Assistência</div>
+                                    <div class="featured-title">
+                                        <h3><a href="#">Traslado de Corpo</a> <br> &nbsp;</h3>
+                                    </div>
+                                </div>
+                                <div class="ttm-box-view-overlay border-rad_6">
+                                    <!-- featured-thumbnail -->
+                                    <div class="featured-thumbnail">
+                                        <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-02-1200x800.jpg" alt="image">
+                                    </div><!-- featured-thumbnail end-->       
+                                    <div class="featured-hover-content">
+                                        <div class="bottom-footer">
+                                            <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor" href="#">Saiba Mais</a>
+                                        </div>
+                                    </div>                            
+                                </div>                                
+                            </div><!-- featured-imagebox end-->
+                        </div>
+                        
                     </div>
                     <!-- row end -->
                 </div>
