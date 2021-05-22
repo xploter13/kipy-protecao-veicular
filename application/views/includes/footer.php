@@ -33,7 +33,7 @@
                     </div>
                 </div>
             </div>
-            <div class="second-footer">
+            <!-- <div class="second-footer">
                 <div class="container">
                     <div class="row">
                         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 widget-area">
@@ -43,6 +43,7 @@
                                     <p>Laborum do qui et nisi eu ex nostrud Laborum do qui et nisi eu ex nostrud Laborum do qui et nisi eu ex nostrudLaborum do qui et nisi eu ex nostrud.</p>
                                     <div class="call_detail">
                                         <h3>Telefone</h3>
+                                        <p>0800 444 8800</p>
                                         <p>(24) 99839-5123</p>
                                     </div>
                                 </div>
@@ -52,7 +53,7 @@
                             <div class="widget widget_nav_menu clearfix">
                                <h3 class="widget-title">Empresa</h3>
                                <ul id="menu-footer-quick-links" class="menu">
-                                    <li><a href="#">Lorem Ipsum</a></li>
+                                    <li><a href="#">Home</a></li>
                                     <li><a href="#">Lorem Ipsum</a></li>
                                     <li><a href="#">Lorem Ipsum</a></li>
                                     <li><a href="#">Lorem Ipsum</a></li>
@@ -74,7 +75,7 @@
                         </div>  
                     </div>
                 </div>
-            </div>
+            </div> -->
             <div class="bottom-footer-text copyright ttm-textcolor-white">
                 <div class="container">
                     <div class="row">
