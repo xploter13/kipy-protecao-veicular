@@ -5,39 +5,18 @@
                     <div class="row no-gutters">
                         <div class="col-xl-12 d-flex flex-row align-items-center">
                             <div class="top_bar_contact_item">
-                                <div class="top_bar_icon"><i class="ti ti-email"></i></div><a href="mailto:info@example.com">administrativo@kipyprotecaoveicular.com.br</a>
+                                <div class="top_bar_icon"><i class="ti ti-email"></i></div><a href="mailto:administrativo@kipyprotecaoveicular.com.br" class="text-uppercase" target="_blank">administrativo@kipyprotecaoveicular.com.br</a>
                             </div>
                             <div class="top_bar_contact_item">
-                                <div class="top_bar_icon"><i class="ti ti-location-pin"></i></div> Rua José Alves Pimenta 1851, Matadouro, Barra do Piraí - RJ 
+                                <div class="top_bar_icon"><i class="ti ti-location-pin"></i></div> <span class="text-uppercase">Rua José Alves Pimenta 1851, Matadouro, Barra do Piraí - RJ</span>
                             </div>
                             <div class="top_bar_contact_item top_bar_social ml-auto p-0">
                                 <ul class="social-icons d-flex">
-                                    <li><a href="#" rel="noopener" aria-label="facebook"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#" rel="noopener" aria-label="google"><i class="fa fa-instagram"></i></a></li>
+                                    <li><a href="#" rel="noopener" aria-label="facebook"><img src="<?php echo base_url(); ?>assets/images/icons/facebook.svg" style="width: 25px; height: auto;" alt=""></a></li>
+                                    <li><a href="#" rel="noopener" aria-label="google"><img src="<?php echo base_url(); ?>assets/images/icons/instagram.svg" style="width: 25px; height: auto;" alt=""></a></li>
                                 </ul>
                             </div>
-                            <div class="top_bar_contact_item d-flex align-items-center">
-                                <!-- <div class="header_search">
-                                    <a href="#" class="btn-default search_btn"><i class="fa fa-search"></i></a>
-                                    <div class="header_search_content">
-                                        <div class="header_search_content_inner">
-                                            <a href="#" class="close_btn"><i class="ti ti-close"></i></a>
-                                            <form id="searchbox" method="get" action="#">
-                                                <input class="search_query" type="text" id="search_query_top" name="s" placeholder="Type Word Then Enter.." value="">
-                                                <button type="submit" class="btn close-search"><i class="ti ti-search"></i></button>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div> -->
-                                <div class="ttm-bg ttm-col-bgcolor-yes ttm-right-span ttm-bgcolor-skincolor ttm-textcolor-white mr-auto margin_left50 padding_left15">
-                                    <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
-                                    <div class="layer-content">
-                                        <div class="header_btn">
-                                            <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-white btn-inline" href="http://ap3.stc.srv.br/webcliente/liderrastreamento">Rastreie o seu veículo</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -46,7 +25,7 @@
             <!-- site-header-menu -->
             <div id="site-header-menu" class="site-header-menu ttm-bgcolor-white">
                 <div class="site-header-menu-inner ttm-stickable-header">
-                    <div class="container">
+                    <div class="container-fluid">
                         <div class="row">
                             <div class="col-lg-12">
                                 <!--site-navigation -->
@@ -69,24 +48,44 @@
                                                 <li class="active">
                                                     <a href="<?php echo base_url(); ?>" class="mega-menu-link">Home</a>
                                                 </li>   
-                                                <!-- <li class="mega-menu-item">
-                                                    <a href="#" class="mega-menu-link">Assistência</a>
+                                                <li class="mega-menu-item">
+                                                    <a href="<?php echo base_url(); ?>assistencia" class="mega-menu-link">Assistência</a>
                                                 </li>                                           
                                                 <li class="mega-menu-item">
                                                     <a href="<?php echo base_url(); ?>protecao" class="mega-menu-link">Proteção</a>
-                                                </li>  -->                                          
+                                                </li>                                        
                                                 <li class="mega-menu-item">
                                                     <a href="<?php echo base_url(); ?>contato">Contato</a>
+                                                </li>
+                                                <li class="mega-menu-item">
+                                                    <a href="<?php echo base_url(); ?>area-do-associado">Área do Associado</a>
+                                                </li>
+                                                <li class="mega-menu-item">
+                                                    <a href="http://ap3.stc.srv.br/webcliente/liderrastreamento" target="_blank">Rastreie o seu veículo</a>
                                                 </li>
                                             </ul>
                                         </nav><!-- menu end -->
                                         <div class="widget_info d-flex flex-row align-items-center justify-content-end">
                                             <div class="widget_icon ttm-textcolor-skincolor"><i class="themifyicon ti-comments"></i></div>
                                             <div class="widget_content">
+                                                <div class="dropdown">
+                                                    <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                        Faça uma simulação
+                                                    </a>
+                                                    <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                                        <a class="dropdown-item" href="#">Carro</a>
+                                                        <a class="dropdown-item" href="#">Moto</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- <div class="widget_info d-flex flex-row align-items-center justify-content-end">
+                                            <div class="widget_icon ttm-textcolor-skincolor"><i class="themifyicon ti-comments"></i></div>
+                                            <div class="widget_content">
                                                 <h3 class="widget_title">Faça uma cotação</h3>
                                                 <p class="widget_desc"><a href="tel:08004448800" style="color: #00BAEB;" target="_blank">0800 444 8800</a></p>
                                             </div>
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div><!-- site-navigation end-->
                             </div>

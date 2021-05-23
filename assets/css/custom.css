@@ -1,7 +1,27 @@
 /* CUSTOM CSS */
 
+#site-header-menu .site-navigation ul.menu>li>a {
+    font-size: 14px;
+}
+
+.ttm-box-view-overlay.overlay-none:before {
+    background-color: transparent !important;
+}
+
+.widget_content .dropdown .btn-secondary {
+    background-color: transparent;
+    border: transparent;
+    color: #223645;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
 .widget_info .widget_desc {
     font-size: 22px;
+}
+
+.text-blue {
+    color: #00baeb !important;
 }
 
 .top_bar .top_bar_contact_item .top_bar_icon i {

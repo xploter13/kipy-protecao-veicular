@@ -60,156 +60,79 @@
                 <div class="container">
                     <!-- row -->
                     <div class="row">
-                        <div class="col-lg-4 col-md-6">
-                            <!--featured-imagebox-->
-                            <div class="featured-imagebox featured-imagebox-services style2">
-                                <div class="featured-content">
-                                    <div class="ser_cate">Proteção</div>
-                                    <div class="featured-title">
-                                        <h3><a href="#">Furto / Roubo</a></h3>
+                        <div class="col-lg-12">
+                            <div class="featuredbox-number">
+                                <div class="row mt-5 justify-content-center">
+                                    <div class="col-lg-2 col-md-6 col-sm-6">
+                                        <!--featured-icon-box-->
+                                        <div class=" icon-align-top-content style3">
+                                            <div class="featured-icon">
+                                                <img src="<?php echo base_url(); ?>assets/images/icons/furto-roubo.svg" width="100px" class="d-block mx-auto" height="auto" alt="">                                                
+                                            </div>
+                                            <div class="featured-content">
+                                                <div class="featured-title text-center mt-3">
+                                                    <h6>FURTO OU ROUBO</h6>
+                                                </div>
+                                            </div>
+                                        </div><!-- featured-icon-box end-->
+                                    </div>
+                                    <div class="col-lg-2 col-md-6 col-sm-6">
+                                        <!--featured-icon-box-->
+                                        <div class=" icon-align-top-content style3">
+                                            <div class="featured-icon">
+                                                <img src="<?php echo base_url(); ?>assets/images/icons/colisao.svg" width="100px" class="d-block mx-auto" height="auto" alt="">                                                
+                                            </div>
+                                            <div class="featured-content">
+                                                <div class="featured-title text-center mt-3">
+                                                    <h6>COLISÃO</h6>
+                                                </div>
+                                            </div>
+                                        </div><!-- featured-icon-box end-->
+                                    </div>
+                                    <div class="col-lg-2 col-md-6 col-sm-6">
+                                        <!--featured-icon-box-->
+                                        <div class=" icon-align-top-content style3">
+                                            <div class="featured-icon">
+                                                <img src="<?php echo base_url(); ?>assets/images/icons/capotamento.svg" width="100px" class="d-block mx-auto" height="auto" alt="">                                                
+                                            </div>
+                                            <div class="featured-content">
+                                                <div class="featured-title text-center mt-3">
+                                                    <h6>CAPOTAMENTO</h6>
+                                                </div>
+                                            </div>
+                                        </div><!-- featured-icon-box end-->
+                                    </div>
+                                    <div class="col-lg-2 col-md-6 col-sm-6">
+                                        <!--featured-icon-box-->
+                                        <div class=" icon-align-top-content style3">
+                                            <div class="featured-icon">
+                                                <img src="<?php echo base_url(); ?>assets/images/icons/incendio.svg" width="100px" class="d-block mx-auto" height="auto" alt="">                                                
+                                            </div>
+                                            <div class="featured-content">
+                                                <div class="featured-title text-center mt-3">
+                                                    <h6>INCÊNDIO</h6>
+                                                    <p>(decorrente exclusivamente de colisão)</p>
+                                                </div>
+                                            </div>
+                                        </div><!-- featured-icon-box end-->
+                                    </div>
+                                    <div class="col-lg-2 col-md-6 col-sm-6">
+                                        <!--featured-icon-box-->
+                                        <div class=" icon-align-top-content style3">
+                                            <div class="featured-icon">
+                                                <img src="<?php echo base_url(); ?>assets/images/icons/fenomenos.svg" width="100px" class="d-block mx-auto" height="auto" alt="">                                                
+                                            </div>
+                                            <div class="featured-content">
+                                                <div class="featured-title text-center mt-3">
+                                                    <h6>FENÔMENO DA NATUREZA</h6>
+                                                    <p>(inundação, enchente, alagamento por água doce e tempestades, queda de árvore, deslizamento de terra, granizo e raios).</p>
+                                                </div>
+                                            </div>
+                                        </div><!-- featured-icon-box end-->
                                     </div>
                                 </div>
-                                <div class="ttm-box-view-overlay border-rad_6">
-                                    <!-- featured-thumbnail -->
-                                    <div class="featured-thumbnail">
-                                        <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-01-1200x800.jpg" alt="image">
-                                    </div><!-- featured-thumbnail end-->                                    
-                                </div>
-                                <div class="featured-hover-content-">
-                                    <div class="featured-desc- mt-5">
-                                        <p>Em caso de furto/roubo do veículo, a Central de Assistência providenciará o registro junto ao CNVR (Cadastro Nacional de Veículos Roubados) para facilitar sua localização e além disso, você ainda conta com monitoramente e rastreamento do seu veículo em tempo real.</p>
-                                    </div>
-                                    <div class="bottom-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor mb-3" href="#">Eu quero</a>
-                                    </div>
-                                </div>
-                            </div><!-- featured-imagebox end-->
+                            </div>
                         </div>
-                        <div class="col-lg-4 col-md-6">
-                            <!--featured-imagebox-->
-                            <div class="featured-imagebox featured-imagebox-services style2">
-                                <div class="featured-content">
-                                    <div class="ser_cate">Proteção</div>
-                                    <div class="featured-title">
-                                        <h3><a href="#">Incêndio</a></h3>
-                                    </div>
-                                </div>
-                                <div class="ttm-box-view-overlay border-rad_6">
-                                    <!-- featured-thumbnail -->
-                                    <div class="featured-thumbnail">
-                                        <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-02-1200x800.jpg" alt="image">
-                                    </div><!-- featured-thumbnail end-->                                    
-                                </div>
-                                <div class="featured-hover-content-">
-                                    <div class="featured-desc- mt-5">
-                                        <p>Cobrimos o prejuízo de perda total sofrido pelo veículo, caso aconteça um acidente com fogo ou incêndio.</p>
-                                    </div>
-                                    <div class="bottom-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor mb-3" href="#">Eu quero</a>
-                                    </div>
-                                </div>
-                            </div><!-- featured-imagebox end-->
-                        </div>
-                        <div class="col-lg-4 col-md-6">
-                            <!--featured-imagebox-->
-                            <div class="featured-imagebox featured-imagebox-services style2">
-                                <div class="featured-content">
-                                    <div class="ser_cate">Proteção</div>
-                                    <div class="featured-title">
-                                        <h3><a href="#">Colisão</a></h3>
-                                    </div>
-                                </div>
-                                <div class="ttm-box-view-overlay border-rad_6">
-                                    <!-- featured-thumbnail -->
-                                    <div class="featured-thumbnail">
-                                        <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-03-1200x800.jpg" alt="image">
-                                    </div><!-- featured-thumbnail end-->                                    
-                                </div>
-                                <div class="featured-hover-content-">
-                                    <div class="featured-desc- mt-5">
-                                        <p>Em caso de colisão do veículo, será providenciado um táxi para o retorno ao endereço residencial e gantimos total assistência em relação à primeiros socorros e remoção hospitalar para os nossos associados.</p>
-                                    </div>
-                                    <div class="bottom-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor mb-3" href="#">Eu quero</a>
-                                    </div>
-                                </div>
-                            </div><!-- featured-imagebox end-->
-                        </div>
-                        <div class="col-lg-4 col-md-6">
-                            <!--featured-imagebox-->
-                            <div class="featured-imagebox featured-imagebox-services style2">
-                                <div class="featured-content">
-                                    <div class="ser_cate">Proteção</div>
-                                    <div class="featured-title">
-                                        <h3><a href="#">Fenômenos Naturais</a></h3>
-                                    </div>
-                                </div>
-                                <div class="ttm-box-view-overlay border-rad_6">
-                                    <!-- featured-thumbnail -->
-                                    <div class="featured-thumbnail">
-                                        <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-04-1200x800.jpg" alt="image">
-                                    </div><!-- featured-thumbnail end-->                                    
-                                </div>
-                                <div class="featured-hover-content-">
-                                    <div class="featured-desc- mt-5">
-                                        <p>Cobrimos a reparação dos danos provocados por fenômenos naturais, tais como: quedas de árvores e/ou desmoronamento de terra.</p>
-                                    </div>
-                                    <div class="bottom-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor mb-3" href="#">Eu quero</a>
-                                    </div>
-                                </div>
-                            </div><!-- featured-imagebox end-->
-                        </div>
-                        <div class="col-lg-4 col-md-6">
-                            <!--featured-imagebox-->
-                            <div class="featured-imagebox featured-imagebox-services style2">
-                                <div class="featured-content">
-                                    <div class="ser_cate">Proteção</div>
-                                    <div class="featured-title">
-                                        <h3><a href="#">Perda Total</a></h3>
-                                    </div>
-                                </div>
-                                <div class="ttm-box-view-overlay border-rad_6">
-                                    <!-- featured-thumbnail -->
-                                    <div class="featured-thumbnail">
-                                        <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-05-1200x800.jpg" alt="image">
-                                    </div><!-- featured-thumbnail end-->                                    
-                                </div>
-                                <div class="featured-hover-content-">
-                                    <div class="featured-desc- mt-5">
-                                        <p>Cobrimos o prejuízo de perda total sofrido pelo veículo, ainda que o condutor seja o responsável pelo acidente, exceto quando este não esteja conduzindo seu veículo de acordo com as leis de trânsito ou sob efeito de drogas.</p>
-                                    </div>
-                                    <div class="bottom-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor mb-3" href="#">Eu quero</a>
-                                    </div>
-                                </div>
-                            </div><!-- featured-imagebox end-->
-                        </div>
-                        <div class="col-lg-4 col-md-6">
-                            <!--featured-imagebox-->
-                            <div class="featured-imagebox featured-imagebox-services style2">
-                                <div class="featured-content">
-                                    <div class="ser_cate">Proteção</div>
-                                    <div class="featured-title">
-                                        <h3><a href="#">Rastreamento</a></h3>
-                                    </div>
-                                </div>
-                                <div class="ttm-box-view-overlay border-rad_6">
-                                    <!-- featured-thumbnail -->
-                                    <div class="featured-thumbnail">
-                                        <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-02-1200x800.jpg" alt="image">
-                                    </div><!-- featured-thumbnail end-->                                    
-                                </div>
-                                <div class="featured-hover-content-">
-                                    <div class="featured-desc- mt-5">
-                                        <p>Disponibilizamos o serviço de rastreamento para que você possa acompanhar o seu veículo, através de qualquer computador ou celular. Além disso você conta com uma central de rastreamento e monitoramento que acompanha o seu veículo 24h.</p>
-                                    </div>
-                                    <div class="bottom-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-btn-color-skincolor mb-3" href="#">Eu quero</a>
-                                    </div>
-                                </div>
-                            </div><!-- featured-imagebox end-->
-                        </div>                        
                     </div>
                     <!-- row end -->
                 </div>
