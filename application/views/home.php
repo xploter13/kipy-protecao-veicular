@@ -122,7 +122,7 @@
                             <div class="ttm-box-view-overlay overlay-none border-rad_6">
                                 <!-- featured-thumbnail -->
                                 <div class="featured-thumbnail-">
-                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-01-1200x800.jpg" alt="image">
+                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/furto.jpg" alt="image">
                                 </div><!-- featured-thumbnail end-->
                             </div>
                         </div><!-- featured-imagebox end-->
@@ -138,7 +138,7 @@
                             <div class="ttm-box-view-overlay overlay-none border-rad_6">
                                 <!-- featured-thumbnail -->
                                 <div class="featured-thumbnail">
-                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-01-1200x800.jpg" alt="image">
+                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/roubo.jpg" alt="image">
                                 </div><!-- featured-thumbnail end-->
                             </div>
                         </div><!-- featured-imagebox end-->
@@ -154,7 +154,7 @@
                             <div class="ttm-box-view-overlay overlay-none border-rad_6">
                                 <!-- featured-thumbnail -->
                                 <div class="featured-thumbnail">
-                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-01-1200x800.jpg" alt="image">
+                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/colisao.jpg" alt="image">
                                 </div><!-- featured-thumbnail end-->
                             </div>
                         </div><!-- featured-imagebox end-->
@@ -170,7 +170,7 @@
                             <div class="ttm-box-view-overlay overlay-none border-rad_6">
                                 <!-- featured-thumbnail -->
                                 <div class="featured-thumbnail">
-                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-01-1200x800.jpg" alt="image">
+                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/capotamento.jpg" alt="image">
                                 </div><!-- featured-thumbnail end-->
                             </div>
                         </div><!-- featured-imagebox end-->
@@ -181,12 +181,13 @@
                             <div class="featured-content">
                                 <div class="featured-title">
                                     <h3><a href="#">INCÊNDIO</a></h3>
+                                    <p>(decorrente exclusivamente de colisão)</p>
                                 </div>
                             </div>
                             <div class="ttm-box-view-overlay overlay-none border-rad_6">
                                 <!-- featured-thumbnail -->
                                 <div class="featured-thumbnail">
-                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-01-1200x800.jpg" alt="image">
+                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/incendio.jpg" alt="image">
                                 </div><!-- featured-thumbnail end-->
                             </div>
                         </div><!-- featured-imagebox end-->
@@ -203,7 +204,7 @@
                             <div class="ttm-box-view-overlay overlay-none border-rad_6">
                                 <!-- featured-thumbnail -->
                                 <div class="featured-thumbnail">
-                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-01-1200x800.jpg" alt="image">
+                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/fenomenos-natureza.jpg" alt="image">
                                 </div><!-- featured-thumbnail end-->
                             </div>
                         </div><!-- featured-imagebox end-->
@@ -372,7 +373,7 @@
                             <div class="ttm-box-view-overlay overlay-none border-rad_6">
                                 <!-- featured-thumbnail -->
                                 <div class="featured-thumbnail-">
-                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-01-1200x800.jpg" alt="image">
+                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/socorro-eletrico.jpg" alt="image">
                                 </div><!-- featured-thumbnail end-->
                             </div>
                         </div><!-- featured-imagebox end-->
@@ -388,7 +389,7 @@
                             <div class="ttm-box-view-overlay overlay-none border-rad_6">
                                 <!-- featured-thumbnail -->
                                 <div class="featured-thumbnail">
-                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-01-1200x800.jpg" alt="image">
+                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/socorro-mecanico.jpg" alt="image">
                                 </div><!-- featured-thumbnail end-->
                             </div>
                         </div><!-- featured-imagebox end-->
@@ -404,7 +405,7 @@
                             <div class="ttm-box-view-overlay overlay-none border-rad_6">
                                 <!-- featured-thumbnail -->
                                 <div class="featured-thumbnail">
-                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-01-1200x800.jpg" alt="image">
+                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/reboque.jpg" alt="image">
                                 </div><!-- featured-thumbnail end-->
                             </div>
                         </div><!-- featured-imagebox end-->
@@ -420,7 +421,7 @@
                             <div class="ttm-box-view-overlay overlay-none border-rad_6">
                                 <!-- featured-thumbnail -->
                                 <div class="featured-thumbnail">
-                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-01-1200x800.jpg" alt="image">
+                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/troca-pneus.jpg" alt="image">
                                 </div><!-- featured-thumbnail end-->
                             </div>
                         </div><!-- featured-imagebox end-->
@@ -436,7 +437,7 @@
                             <div class="ttm-box-view-overlay overlay-none border-rad_6">
                                 <!-- featured-thumbnail -->
                                 <div class="featured-thumbnail">
-                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-01-1200x800.jpg" alt="image">
+                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/taxi.jpg" alt="image">
                                 </div><!-- featured-thumbnail end-->
                             </div>
                         </div><!-- featured-imagebox end-->
@@ -452,7 +453,7 @@
                             <div class="ttm-box-view-overlay overlay-none border-rad_6">
                                 <!-- featured-thumbnail -->
                                 <div class="featured-thumbnail">
-                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/services-01-1200x800.jpg" alt="image">
+                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/chaveiro.jpg" alt="image">
                                 </div><!-- featured-thumbnail end-->
                             </div>
                         </div><!-- featured-imagebox end-->

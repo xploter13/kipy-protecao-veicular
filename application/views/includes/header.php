@@ -73,8 +73,8 @@
                                                         Faça uma simulação
                                                     </a>
                                                     <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                                                        <a class="dropdown-item" href="#">Carro</a>
-                                                        <a class="dropdown-item" href="#">Moto</a>
+                                                        <a class="dropdown-item" href="<?php echo base_url(); ?>simulacao">Carro</a>
+                                                        <a class="dropdown-item" href="<?php echo base_url(); ?>simulacao">Moto</a>
                                                     </div>
                                                 </div>
                                             </div>
