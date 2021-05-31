@@ -24,9 +24,9 @@
                                         <h4>Cobertura</h4>
                                         <h2>100% nacional</h2>
                                     </div>
-                                    <div>
+                                    <!-- <div>
                                         <a href="#" class="ttm-btn ttm-btn-size-md ttm-btn-style-border ttm-btn-shape-rounded ttm-btn-color-white">Solicite uma cotação</a>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>

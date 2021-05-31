@@ -64,7 +64,7 @@
                             <!-- section title -->
                             <div class="section-title without-seperator title-style-center_text">
                                 <div class="title-header">
-                                    <h3>Nós podemos te ajudar!</h3>
+                                    <!-- <h3>Nós podemos te ajudar!</h3> -->
                                     <h2 class="title">SIMULAÇÃO</h2>
                                 </div>
                                 <div class="title-desc">

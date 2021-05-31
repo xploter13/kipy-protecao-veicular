@@ -103,7 +103,7 @@
                         <div class="section-title title-style-center_text">
                             <div class="title-header">
                                 <h3>O que oferecemos</h3>
-                                <h2 class="title">Proteção completa <br> para o veículo.</h2>
+                                <h2 class="title text-uppercase" style="color: #303493;">Proteção completa <br> para o veículo.</h2>
                             </div>                                
                         </div><!-- section title end -->
                     </div>
@@ -353,7 +353,7 @@
                         <div class="section-title title-style-center_text">
                             <div class="title-header">
                                 <!-- <h3>O que oferecemos</h3> -->
-                                <h2 class="title">Assistência 24 horas para todo brasil</h2>
+                                <h2 class="title text-uppercase" style="color: #303493;">Assistência 24 horas para todo brasil</h2>
                             </div>                                
                         </div><!-- section title end -->
                     </div>
