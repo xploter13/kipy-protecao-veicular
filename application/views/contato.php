@@ -205,6 +205,9 @@
 
     <!-- Javascript -->
     <?php $this->load->view('includes/scripts'); ?>
+    <script>
+        $(".mn-contato").addClass('active');
+    </script>
     <!-- Javascript end-->
 
 </body>

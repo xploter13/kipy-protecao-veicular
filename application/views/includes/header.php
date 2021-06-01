@@ -45,19 +45,19 @@
                                         <!-- menu -->
                                         <nav class="main-menu menu-mobile" id="menu">
                                             <ul class="menu">
-                                                <li class="active">
+                                                <li class="mn-home">
                                                     <a href="<?php echo base_url(); ?>" class="mega-menu-link">Home</a>
                                                 </li>   
-                                                <li class="mega-menu-item">
+                                                <li class="mega-menu-item mn-assistencia">
                                                     <a href="<?php echo base_url(); ?>assistencia" class="mega-menu-link">Assistência</a>
                                                 </li>                                           
-                                                <li class="mega-menu-item">
+                                                <li class="mega-menu-item mn-protecao">
                                                     <a href="<?php echo base_url(); ?>protecao" class="mega-menu-link">Proteção</a>
                                                 </li>                                        
-                                                <li class="mega-menu-item">
+                                                <li class="mega-menu-item mn-contato">
                                                     <a href="<?php echo base_url(); ?>contato">Contato</a>
                                                 </li>
-                                                <li class="mega-menu-item">
+                                                <li class="mega-menu-item mn-area-associado">
                                                     <a href="<?php echo base_url(); ?>area-do-associado">Área do Associado</a>
                                                 </li>
                                                 <li class="mega-menu-item">

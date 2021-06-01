@@ -80,7 +80,7 @@
                                         <!--featured-icon-box-->
                                         <div class=" icon-align-top-content style3">
                                             <div class="featured-icon">
-                                                <img src="<?php echo base_url(); ?>assets/images/icons/socorro-mecanico.svg" width="100px" class="d-block mx-auto" height="auto" alt="">                                                
+                                                <img src="<?php echo base_url(); ?>assets/images/icons/socorro-mecanico.jpg" width="100px" class="d-block mx-auto" height="auto" alt="">                                                
                                             </div>
                                             <div class="featured-content">
                                                 <div class="featured-title text-center mt-3">
@@ -151,33 +151,6 @@
             <!--grid-section end-->
         </div><!--site-main end-->
 
-
-
-
-
-            <!-- row --
-                    
-
-
-
-
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         <!--footer start-->
         <?php $this->load->view('includes/footer'); ?>
         <!--footer end-->
@@ -193,6 +166,9 @@
 
     <!-- Javascript -->
     <?php $this->load->view('includes/scripts'); ?>
+    <script>
+        $(".mn-assistencia").addClass('active');
+    </script>
     <!-- Javascript end-->
 
 </body>

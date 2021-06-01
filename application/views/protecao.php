@@ -93,7 +93,7 @@
                                         <!--featured-icon-box-->
                                         <div class=" icon-align-top-content style3">
                                             <div class="featured-icon">
-                                                <img src="<?php echo base_url(); ?>assets/images/icons/capotamento.svg" width="100px" class="d-block mx-auto" height="auto" alt="">                                                
+                                                <img src="<?php echo base_url(); ?>assets/images/icons/capotamento.png" width="100px" class="d-block mx-auto" height="auto" alt="">                                                
                                             </div>
                                             <div class="featured-content">
                                                 <div class="featured-title text-center mt-3">
@@ -120,7 +120,7 @@
                                         <!--featured-icon-box-->
                                         <div class=" icon-align-top-content style3">
                                             <div class="featured-icon">
-                                                <img src="<?php echo base_url(); ?>assets/images/icons/fenomenos.svg" width="100px" class="d-block mx-auto" height="auto" alt="">                                                
+                                                <img src="<?php echo base_url(); ?>assets/images/icons/fenomenos.png" width="100px" class="d-block mx-auto" height="auto" alt="">                                                
                                             </div>
                                             <div class="featured-content">
                                                 <div class="featured-title text-center mt-3">
@@ -155,6 +155,9 @@
 
     <!-- Javascript -->
     <?php $this->load->view('includes/scripts'); ?>
+    <script>
+        $(".mn-protecao").addClass('active');
+    </script>
     <!-- Javascript end-->
 
 </body>

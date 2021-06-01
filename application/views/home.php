@@ -33,17 +33,17 @@
         <!-- Banner -->
         <div class="banner_slider">
             <div class="slide">
-                <div class="slide_img" style="background-image: url(<?php echo base_url(); ?>assets/images/slides/slider-mainbg-001.jpg);"></div>
+                <div class="slide_img" style="background-image: url(<?php echo base_url(); ?>assets/images/slides/slider-mainbg-001.jpg); background-size: contain; background-repeat: no-repeat;"></div>
                 <div class="slide__content">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="slide__content--headings d-flex">
-                                    <div data-animation="fadeInLeft" class="padding_left3 ttm-bgcolor-skincolor"></div>
+                                    <!-- <div data-animation="fadeInLeft" class="padding_left3 ttm-bgcolor-skincolor"></div>
                                     <div class="padding_left30 padding_top10 padding_bottom10">
                                         <h3  data-animation="fadeInDown">Se preocupe com seu futuro.</h3>
                                         <h2  data-animation="fadeInDown">Proteja o seu <span class="ttm-textcolor-skincolor">veículo</span></h2>
-                                        <!-- <h2  data-animation="fadeInDown">Boundaries.</h2> -->
+                                        <!-- <h2  data-animation="fadeInDown">Boundaries.</h2> --
                                         <p  data-animation="fadeInDown" class="ttm-textcolor-darkgrey">Não contrate ou renove o seu contrato de proteção ou seguro <br> antes de conhecer as nossas condições!</p>
                                         <div class="d-sm-flex margin_top30 align-items-center res-767-margin_top20" data-animation="fadeInUp" data-delay="1.4">
                                             <!-- <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-border ttm-btn-color-dark margin_right4" href="#">Conheça nossa proteção</a> -->
@@ -51,15 +51,15 @@
                                                 <span class="ttm-icon ttm-icon_element-fill ttm-icon_element-color-skincolor ttm-icon_element-size-xs ttm-icon_element-style-rounded margin_right15 margin_bottom0">
                                                     <i class="fa fa-play margin_left0 padding_left0"></i>
                                                 </span><span> WATCH VIDEO</span>
-                                            </a> -->
+                                            </a> --
                                         </div>
                                         <!--<div data-animation="fadeInDown" class="arrow-block md-hide">
                                             <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/slides/slider-shape-border.png" alt="arrow-img">
                                         </div>
                                          <div data-animation="fadeInDown" class="circle-block md-hide">
                                             <span></span>
-                                        </div> -->
-                                    </div>
+                                        </div> --
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -102,7 +102,7 @@
                         <!-- section title -->
                         <div class="section-title title-style-center_text">
                             <div class="title-header">
-                                <h3>O que oferecemos</h3>
+                                <!-- <h3>O que oferecemos</h3> -->
                                 <h2 class="title text-uppercase" style="color: #303493;">Proteção completa <br> para o veículo.</h2>
                             </div>                                
                         </div><!-- section title end -->
@@ -113,99 +113,84 @@
                 <div class="row ">
                     <div class="col-md-4 col-sm-6">
                         <!--featured-imagebox-->
-                        <div class="featured-imagebox featured-imagebox-services style2">
-                            <div class="featured-content">
-                                <div class="featured-title">
-                                    <h3><a href="#">FURTO</a></h3>
-                                </div>
-                            </div>
+                        <div class="featured-imagebox featured-imagebox-services style2">                            
                             <div class="ttm-box-view-overlay overlay-none border-rad_6">
                                 <!-- featured-thumbnail -->
                                 <div class="featured-thumbnail-">
-                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/furto.jpg" alt="image">
+                                    <img src="<?php echo base_url(); ?>assets/images/icons/roubo.png" class="mx-auto d-block mb-4" width="150px" height="auto" alt="image">
                                 </div><!-- featured-thumbnail end-->
                             </div>
-                        </div><!-- featured-imagebox end-->
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <!--featured-imagebox-->
-                        <div class="featured-imagebox featured-imagebox-services style2">
                             <div class="featured-content">
                                 <div class="featured-title">
-                                    <h3><a href="#">ROUBO</a></h3>
+                                    <h3><a href="#">ROUBO / FURTO</a></h3>
                                 </div>
                             </div>
-                            <div class="ttm-box-view-overlay overlay-none border-rad_6">
-                                <!-- featured-thumbnail -->
-                                <div class="featured-thumbnail">
-                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/roubo.jpg" alt="image">
-                                </div><!-- featured-thumbnail end-->
-                            </div>
                         </div><!-- featured-imagebox end-->
-                    </div>
+                    </div>                    
                     <div class="col-md-4 col-sm-6">
                         <!--featured-imagebox-->
-                        <div class="featured-imagebox featured-imagebox-services style2">
+                        <div class="featured-imagebox featured-imagebox-services style2">                            
+                            <div class="ttm-box-view-overlay overlay-none border-rad_6">
+                                <!-- featured-thumbnail -->
+                                <div class="featured-thumbnail-">
+                                    <img src="<?php echo base_url(); ?>assets/images/icons/colisao-de-carro.png" class="mx-auto d-block mb-4" width="150px" height="auto" alt="image">
+                                </div><!-- featured-thumbnail end-->
+                            </div>
                             <div class="featured-content">
                                 <div class="featured-title">
                                     <h3><a href="#">COLISÃO</a></h3>
                                 </div>
                             </div>
+                        </div><!-- featured-imagebox end-->
+                    </div>                    
+                   
+                    <div class="col-md-4 col-sm-6">
+                        <!--featured-imagebox-->
+                        <div class="featured-imagebox featured-imagebox-services style2">                            
                             <div class="ttm-box-view-overlay overlay-none border-rad_6">
                                 <!-- featured-thumbnail -->
                                 <div class="featured-thumbnail">
-                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/colisao.jpg" alt="image">
+                                <img src="<?php echo base_url(); ?>assets/images/icons/veiculo-capotado.png" class="mx-auto d-block mb-4" width="150px" height="auto" alt="image">
                                 </div><!-- featured-thumbnail end-->
                             </div>
-                        </div><!-- featured-imagebox end-->
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <!--featured-imagebox-->
-                        <div class="featured-imagebox featured-imagebox-services style2">
                             <div class="featured-content">
                                 <div class="featured-title">
                                     <h3><a href="#">CAPOTAMENTO</a></h3>
                                 </div>
                             </div>
-                            <div class="ttm-box-view-overlay overlay-none border-rad_6">
-                                <!-- featured-thumbnail -->
-                                <div class="featured-thumbnail">
-                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/capotamento.jpg" alt="image">
-                                </div><!-- featured-thumbnail end-->
-                            </div>
                         </div><!-- featured-imagebox end-->
                     </div>
                     <div class="col-md-4 col-sm-6">
                         <!--featured-imagebox-->
-                        <div class="featured-imagebox featured-imagebox-services style2">
+                        <div class="featured-imagebox featured-imagebox-services style2">                            
+                            <div class="ttm-box-view-overlay overlay-none border-rad_6">
+                                <!-- featured-thumbnail -->
+                                <div class="featured-thumbnail">
+                                    <img src="<?php echo base_url(); ?>assets/images/icons/carro-em-chamas.png" class="mx-auto d-block mb-4" width="150px" height="auto" alt="image">
+                                </div><!-- featured-thumbnail end-->
+                            </div>
                             <div class="featured-content">
                                 <div class="featured-title">
                                     <h3><a href="#">INCÊNDIO</a></h3>
                                     <p>(decorrente exclusivamente de colisão)</p>
                                 </div>
                             </div>
-                            <div class="ttm-box-view-overlay overlay-none border-rad_6">
-                                <!-- featured-thumbnail -->
-                                <div class="featured-thumbnail">
-                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/incendio.jpg" alt="image">
-                                </div><!-- featured-thumbnail end-->
-                            </div>
                         </div><!-- featured-imagebox end-->
                     </div>
                     <div class="col-md-4 col-sm-6">
                         <!--featured-imagebox-->
-                        <div class="featured-imagebox featured-imagebox-services style2">
+                        <div class="featured-imagebox featured-imagebox-services style2">                            
+                            <div class="ttm-box-view-overlay overlay-none border-rad_6">
+                                <!-- featured-thumbnail -->
+                                <div class="featured-thumbnail">
+                                <img src="<?php echo base_url(); ?>assets/images/icons/danos.png" class="mx-auto d-block mb-4" width="250px" height="auto" alt="image">
+                                </div><!-- featured-thumbnail end-->
+                            </div>
                             <div class="featured-content">
                                 <div class="featured-title">
                                     <h3><a href="#">FENÔMENO DA NATUREZA</a></h3>
                                     <p>(inundação, enchente, alagamento por água doce e tempestades, queda de árvore, deslizamento de terra, granizo e raios).</p>
                                 </div>
-                            </div>
-                            <div class="ttm-box-view-overlay overlay-none border-rad_6">
-                                <!-- featured-thumbnail -->
-                                <div class="featured-thumbnail">
-                                    <img class="img-fluid" src="<?php echo base_url(); ?>assets/images/services/fenomenos-natureza.jpg" alt="image">
-                                </div><!-- featured-thumbnail end-->
                             </div>
                         </div><!-- featured-imagebox end-->
                     </div>                        
@@ -480,6 +465,9 @@
 
     <!-- Javascript -->
     <?php $this->load->view('includes/scripts'); ?>
+    <script>
+        $(".mn-home").addClass('active');
+    </script>
     <!-- Javascript end-->
 
 </body>
