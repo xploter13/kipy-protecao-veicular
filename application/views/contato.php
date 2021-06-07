@@ -133,7 +133,7 @@
                                         <div class="featured-title">
                                             <h3>Endereço</h3>
                                         </div>
-                                        <div class="featured-desc">Rua José Alves Pimenta 1851, Matadouro, Barra do Piraí - RJ</div>
+                                        <div class="featured-desc">Rua José Alves Pimenta 1861, CEP 27115-010, Matadouro, Barra do Piraí - RJ</div>
                                     </div>
                                 </div><!-- featured-icon-box end-->
                             </div>
