@@ -10,3 +10,4 @@
 <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/megamenu.css"/>
 <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/responsive.css"/>
 <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/custom.css"/>
+<link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/LGPD.css">

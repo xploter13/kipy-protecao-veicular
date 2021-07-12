@@ -11,6 +11,7 @@
     <script src="<?php echo base_url(); ?>assets/js/imagesloaded.min.js"></script>
     <script src="<?php echo base_url(); ?>assets/js/jquery-isotope.js"></script>
     <script src="<?php echo base_url(); ?>assets/js/main.js"></script>
+    <script src="<?php echo base_url(); ?>assets/js/LGPD.js"></script>
     <script>
         //WhatsHelp.io widget
         (function() {
